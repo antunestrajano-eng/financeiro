@@ -118,6 +118,15 @@ header{
 .kpi.c-amber .kpi-value{color:var(--amber);}
 .kpi.c-amber .kpi-bar{background:linear-gradient(90deg,#d97706,var(--amber));}
 
+.mom-indicator{
+  display:inline-flex;align-items:center;gap:4px;
+  font-size:11px;font-weight:700;margin-top:6px;
+  padding:2px 8px;border-radius:4px;width:fit-content;
+}
+.mom-up{background:rgba(244,63,94,.1);color:#f87191;} /* Aumento de gasto = Vermelho */
+.mom-down{background:rgba(34,211,160,.1);color:var(--green);} /* Queda de gasto = Verde */
+.mom-neutral{background:rgba(255,255,255,.05);color:var(--muted);}
+
 /* ── SECTION TITLE ── */
 .section-title{
   font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
@@ -138,7 +147,8 @@ header{
 @media(max-width:860px){.charts-grid{grid-template-columns:1fr;}.charts-grid .span2{grid-column:span 1;}}
 .chart-box{background:rgba(0,0,0,.25);border:1px solid var(--border);border-radius:12px;padding:18px;}
 .chart-box-label{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:12px;}
-canvas{width:100%!important;height:260px!important;}
+canvas{width:100%!important;height:240px!important;}
+#chCompareMeses{height:300px!important;}
 
 /* ── CATEGORY FILTER (for comparison chart) ── */
 .chart-control{display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap;}
@@ -415,6 +425,7 @@ tbody tr:last-child td{border-bottom:none;}
         <div class="kpi-bar"></div>
         <div class="kpi-label">Total do Período</div>
         <div class="kpi-value" id="kTotal">—</div>
+        <div id="kMom"></div>
         <div class="kpi-hint" id="kTotalHint">—</div>
       </div>
       <div class="kpi c-blue fade-up">
@@ -444,39 +455,21 @@ tbody tr:last-child td{border-bottom:none;}
     </div>
 
     <!-- ANÁLISE VISUAL -->
-    <div class="section-title">Análise Visual</div>
+    <div class="section-title">Análise de Tendência Mensal</div>
     <div class="card fade-up">
       <div class="card-body">
-        <div class="charts-scroll-wrap">
-          <div class="charts-grid">
-            <div class="chart-box chart-card-mobile">
-              <div class="chart-box-label">Gastos por Categoria</div>
-              <canvas id="chDonut"></canvas>
-            </div>
-            <div class="chart-box chart-card-mobile">
-              <div class="chart-box-label">Distribuição por Tipo</div>
-              <canvas id="chTipo"></canvas>
-            </div>
-            <div class="chart-box span2 chart-card-mobile chart-card-wide">
-              <div class="chart-control">
-                <span class="chart-box-label" style="margin-bottom:0;">Evolução por Categoria</span>
-                <select class="csel" id="catCompareSelect">
-                  <option value="__all__">Todas as categorias (total)</option>
-                </select>
-              </div>
-              <canvas id="chCompareMeses"></canvas>
-            </div>
-            <div id="barChartBox" class="chart-box span2 chart-card-mobile chart-card-wide">
-              <div class="chart-box-label">Comparativo por Categoria (Valor Total)</div>
-              <canvas id="chBar"></canvas>
-            </div>
+        <div class="chart-box" style="border:none;background:transparent;padding:0;">
+          <div class="chart-control">
+            <span class="chart-box-label" style="margin-bottom:0;">Evolução Temporal</span>
+            <select class="csel" id="catCompareSelect">
+              <option value="__all__">Todas as categorias (total)</option>
+            </select>
           </div>
+          <canvas id="chCompareMeses"></canvas>
         </div>
       </div>
     </div>
 
-    <!-- SCROLL HINT MOBILE -->
-      <div class="charts-scroll-hint">← deslize para ver mais →</div>
 
       <!-- RANKING -->
     <div class="section-title">Ranking de Categorias</div>
@@ -524,7 +517,7 @@ tbody tr:last-child td{border-bottom:none;}
     '#7ba4ff','#fb923c','#e879f9','#34d399','#f87171',
     '#a78bfa','#facc15','#4ade80','#38bdf8','#c084fc'
   ];
-  var chDonut, chTipo, chCompareMeses, chBar;
+  var chCompareMeses;
   var _allGastos = [];
   var _meses = [];
 
@@ -604,6 +597,16 @@ tbody tr:last-child td{border-bottom:none;}
   }
 
   // ── RENDER ───────────────────────────────────────────
+  var _meses=[];
+  var MESES_NOMES = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
+  function fmtMes(m) {
+    if (!m) return m;
+    var p = m.split('/');
+    if (p.length !== 2) return m;
+    var idx = parseInt(p[0], 10) - 1;
+    return (MESES_NOMES[idx] || p[0]) + '/' + p[1];
+  }
+
   function renderDashboard(json){
     // Suporta tanto o formato novo (json.gastos = array de objetos)
     // quanto um fallback de segurança
@@ -630,21 +633,14 @@ tbody tr:last-child td{border-bottom:none;}
 
     // Populate month select
     var sel=document.getElementById('monthSelect');
-    var MESES_NOMES = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
-    function fmtMes(m) {
-      // m = "MM/YYYY" → "Março/2026"
-      if (!m) return m;
-      var p = m.split('/');
-      if (p.length !== 2) return m;
-      var idx = parseInt(p[0], 10) - 1;
-      return (MESES_NOMES[idx] || p[0]) + '/' + p[1];
-    }
+    sel.innerHTML = ''; // Clear existing
     _meses.forEach(function(m){ var o=document.createElement('option');o.value=m;o.textContent=fmtMes(m);sel.appendChild(o); });
 
     // Populate category compare select
     var cats={};
     _allGastos.forEach(function(g){cats[g.categoria]=true;});
     var csel=document.getElementById('catCompareSelect');
+    csel.innerHTML = '<option value="__all__">Todas as categorias (total)</option>';
     Object.keys(cats).sort().forEach(function(c){
       var o=document.createElement('option');o.value=c;o.textContent=c;csel.appendChild(o);
     });
@@ -681,6 +677,31 @@ tbody tr:last-child td{border-bottom:none;}
 
     setEl('kTotal',fmtBRL(total));
     setEl('kTotalHint',mf||((_meses.length>1?_meses[0]+' – '+_meses[_meses.length-1]:_meses[0])||'—'));
+
+    // Cálculo MoM (Month-over-Month)
+    var momEl = document.getElementById('kMom');
+    if(mf && _meses.length > 1){
+      var idx = _meses.indexOf(mf);
+      if(idx > 0){
+        var prevMonth = _meses[idx-1];
+        var prevTotal = _allGastos.filter(function(g){return g.mes===prevMonth;}).reduce(function(s,g){return s+g.valor;},0);
+        if(prevTotal > 0){
+          var diff = ((total - prevTotal) / prevTotal) * 100;
+          var diffFmt = Math.abs(diff).toFixed(1) + '%';
+          if(diff > 0.1){
+            momEl.className = 'mom-indicator mom-up';
+            momEl.innerHTML = '<span>▲</span> ' + diffFmt + ' vs mês anterior';
+          } else if(diff < -0.1){
+            momEl.className = 'mom-indicator mom-down';
+            momEl.innerHTML = '<span>▼</span> ' + diffFmt + ' vs mês anterior';
+          } else {
+            momEl.className = 'mom-indicator mom-neutral';
+            momEl.innerHTML = 'estável vs mês anterior';
+          }
+        } else { momEl.innerHTML = ''; momEl.className = ''; }
+      } else { momEl.innerHTML = ''; momEl.className = ''; }
+    } else { momEl.innerHTML = ''; momEl.className = ''; }
+
     setEl('kCount',count);
     setEl('kCountHint',count===1?'1 lançamento':count+' lançamentos');
     setEl('kMaior',fmtBRL(maior.valor));
@@ -693,85 +714,7 @@ tbody tr:last-child td{border-bottom:none;}
 
   // ── CHARTS ───────────────────────────────────────────
   function renderCharts(gastos){
-    var catMap={};
-    gastos.forEach(function(g){catMap[g.categoria]=(catMap[g.categoria]||0)+g.valor;});
-    var catEntries=Object.entries(catMap).sort(function(a,b){return b[1]-a[1];});
-    var catLabels=catEntries.map(function(e){return e[0];});
-    var catValues=catEntries.map(function(e){return e[1];});
-
-    // Para o gráfico de barras: top 12 + Outros (evita rótulos sobrepostos)
-    var MAX_BAR_CATS=12;
-    var barLabels, barValues;
-    if(catEntries.length<=MAX_BAR_CATS){
-      barLabels=catLabels; barValues=catValues;
-    }else{
-      var rest=catEntries.slice(MAX_BAR_CATS).reduce(function(s,e){return s+e[1];},0);
-      barLabels=catEntries.slice(0,MAX_BAR_CATS).map(function(e){return e[0];}).concat(['Outros']);
-      barValues=catEntries.slice(0,MAX_BAR_CATS).map(function(e){return e[1];}).concat([rest]);
-    }
-
-    var tipoMap={};
-    gastos.forEach(function(g){tipoMap[g.tipo]=(tipoMap[g.tipo]||0)+g.valor;});
-    var tipoLabels=Object.keys(tipoMap), tipoValues=tipoLabels.map(function(t){return tipoMap[t];});
-
-    // Donut — categorias (mobile: legenda embaixo, fonte menor)
-    var mobile=isMobile();
-    if(chDonut)chDonut.destroy();
-    chDonut=new Chart(document.getElementById('chDonut').getContext('2d'),{
-      type:'doughnut',plugins:[ChartDataLabels],
-      data:{labels:catLabels,datasets:[{data:catValues,backgroundColor:COLORS.slice(0,catLabels.length),borderWidth:0,hoverOffset:8}]},
-      options:{responsive:true,maintainAspectRatio:false,cutout:mobile?'55%':'62%',
-        layout:{padding:mobile?10:0},
-        plugins:{
-          legend:{
-            position:mobile?'bottom':'right',
-            labels:{color:'#6b7faa',font:{family:'DM Mono',size:mobile?9:10},boxWidth:mobile?8:10,padding:mobile?6:10,maxWidth:mobile?140:undefined}
-          },
-          datalabels:{color:'#fff',font:{family:'DM Mono',size:mobile?8:9,weight:'bold'},
-            formatter:function(v,ctx){var t=ctx.chart.data.datasets[0].data.reduce(function(s,x){return s+x;},0);var p=t>0?Math.round(v/t*100):0;return p>5?p+'%':'';}},
-          tooltip:{callbacks:{label:function(ctx){return ' '+ctx.label+': '+fmtBRL(ctx.raw);}}}
-        }
-      }
-    });
-
-    // Donut — tipo (mobile: legenda embaixo)
-    if(chTipo)chTipo.destroy();
-    var tipoColors=['#2e5fd4','#f5a800','#22d3a0'];
-    chTipo=new Chart(document.getElementById('chTipo').getContext('2d'),{
-      type:'doughnut',plugins:[ChartDataLabels],
-      data:{labels:tipoLabels,datasets:[{data:tipoValues,backgroundColor:tipoColors.slice(0,tipoLabels.length),borderWidth:0,hoverOffset:8}]},
-      options:{responsive:true,maintainAspectRatio:false,cutout:mobile?'55%':'62%',
-        layout:{padding:mobile?10:0},
-        plugins:{
-          legend:{position:mobile?'bottom':'right',labels:{color:'#6b7faa',font:{family:'DM Mono',size:mobile?9:10},boxWidth:mobile?8:10,padding:mobile?6:10}},
-          datalabels:{color:'#fff',font:{family:'DM Mono',size:mobile?8:9,weight:'bold'},
-            formatter:function(v,ctx){var t=ctx.chart.data.datasets[0].data.reduce(function(s,x){return s+x;},0);var p=t>0?Math.round(v/t*100):0;return p>5?p+'%':'';}},
-          tooltip:{callbacks:{label:function(ctx){return ' '+ctx.label+': '+fmtBRL(ctx.raw);}}}
-        }
-      }
-    });
-
-    // Bar — categorias (sempre barras horizontais; mobile: barras mais altas, fonte menor)
-    if(chBar)chBar.destroy();
-    chBar=new Chart(document.getElementById('chBar').getContext('2d'),{
-      type:'bar',indexAxis:'y',plugins:[ChartDataLabels],
-      data:{labels:barLabels,datasets:[{label:'Valor',data:barValues,
-        backgroundColor:COLORS.slice(0,barLabels.length).map(function(c){return c+'55';}),
-        borderColor:COLORS.slice(0,barLabels.length),borderWidth:1.5,borderRadius:6,borderSkipped:false,
-        barThickness:mobile?'flex':undefined,
-        maxBarThickness:mobile?32:undefined}]},
-      options:{responsive:true,maintainAspectRatio:false,
-        layout:{padding:mobile?{left:4,right:8,top:4,bottom:4}:0},
-        plugins:{legend:{display:false},
-          datalabels:{color:'#e8eeff',font:{family:'DM Mono',size:mobile?8:9,weight:'bold'},anchor:'end',align:'end',offset:mobile?2:4,
-            formatter:function(v){return fmtBRL(v);}},
-          tooltip:{callbacks:{label:function(ctx){return ' '+ctx.label+': '+fmtBRL(ctx.raw);}}}},
-        scales:{
-          x:{ticks:{color:'#6b7faa',font:{family:'DM Mono',size:mobile?9:10},callback:function(v){return 'R$'+Number(v/1000).toFixed(0)+'k';}},grid:{color:'rgba(255,255,255,.04)'}},
-          y:{ticks:{color:'#6b7faa',font:{family:'DM Mono',size:mobile?9:10},autoSkip:false,maxRotation:0},grid:{display:false}}
-        }
-      }
-    });
+    // No specific static charts for now as per user request.
   }
 
   // ── COMPARE MESES CHART ──────────────────────────────
@@ -804,9 +747,9 @@ tbody tr:last-child td{border-bottom:none;}
         }]
       },
       options:{responsive:true,maintainAspectRatio:false,
-        layout:{padding:mob?{top:4,bottom:4,left:4,right:8}:0},
+        layout:{padding:mob?{top:15,bottom:4,left:4,right:8}:{top:30,left:10,right:10}},
         plugins:{legend:{display:false},
-          datalabels:{color:'#eef1ff',font:{family:'DM Mono',size:mob?8:9,weight:'bold'},anchor:'end',align:'top',
+          datalabels:{color:'#eef1ff',font:{family:'DM Mono',size:mob?8:10,weight:'bold'},anchor:'end',align:'top',offset:4,
             formatter:function(v){return v>0?fmtBRL(v):'';},
             display:function(ctx){return ctx.dataset.data[ctx.dataIndex]>0;}
           },
@@ -823,7 +766,10 @@ tbody tr:last-child td{border-bottom:none;}
         },
         scales:{
           x:{ticks:{color:'#6b7faa',font:{family:'DM Mono',size:mob?9:11}},grid:{display:false}},
-          y:{ticks:{color:'#6b7faa',font:{family:'DM Mono',size:mob?9:10},callback:function(v){return 'R$'+Number(v/1000).toFixed(0)+'k';}},grid:{color:'rgba(255,255,255,.04)'}}
+          y:{ticks:{color:'#6b7faa',font:{family:'DM Mono',size:mob?9:10},callback:function(v){
+            if(v>=1000) return 'R$'+(v/1000).toFixed(1).replace('.0','')+'k';
+            return 'R$'+v;
+          }},grid:{color:'rgba(255,255,255,.04)'}}
         }
       }
     });
