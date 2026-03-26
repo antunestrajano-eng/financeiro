@@ -518,7 +518,7 @@ tbody tr:last-child td{border-bottom:none;}
 
 <script>
 (function(){
-  var SHEET_ID = '1mI_thcNg7_ifBpNAzX_D4vJyxVfN0zJRbmBxV0tSlFE';
+  var JSON_URL = 'https://raw.githubusercontent.com/antunestrajano-eng/financeiro/main/data.json';
   var COLORS = [
     '#f5a800','#2e5fd4','#22d3a0','#f43f5e','#ffd166',
     '#7ba4ff','#fb923c','#e879f9','#34d399','#f87171',
@@ -573,50 +573,51 @@ tbody tr:last-child td{border-bottom:none;}
 
   verificarSenha();
 
-  // ── JSONP ────────────────────────────────────────────
-  var n=0;
-  function loadSheet(name){
-    return new Promise(function(res,rej){
-      var cb='__gv'+(n++);
-      var url='https://docs.google.com/spreadsheets/d/'+SHEET_ID+'/gviz/tq?tqx=out:json;responseHandler:'+cb+'&sheet='+encodeURIComponent(name);
-      var t=setTimeout(function(){ cleanup(); rej(new Error('Timeout: '+name)); },15000);
-      window[cb]=function(r){ clearTimeout(t); cleanup(); r&&r.table?res(parseTable(r.table)):rej(new Error('Resposta inválida: '+name)); };
-      function cleanup(){ try{delete window[cb];}catch(e){} var s=document.getElementById('_s'+cb); if(s)s.parentNode.removeChild(s); }
-      var s=document.createElement('script'); s.id='_s'+cb; s.src=url;
-      s.onerror=function(){ clearTimeout(t); cleanup(); rej(new Error('Erro ao carregar: '+name)); };
-      document.body.appendChild(s);
+  // ── FETCH JSON DO GITHUB ─────────────────────────────
+  function loadJson(){
+    // cache-bust para garantir que o GitHub entregue a versão mais recente
+    var url = JSON_URL + '?v=' + Date.now();
+    return fetch(url).then(function(r){
+      if(!r.ok) throw new Error('HTTP ' + r.status + ' ao carregar data.json');
+      return r.json();
     });
-  }
-  function parseTable(t){
-    var cols=(t.cols||[]).map(function(c){return c.label||c.id||'';}),
-        rows=(t.rows||[]).map(function(r){return (r.c||[]).map(function(c){return !c?'':(c.f||(c.v!=null?String(c.v):'')); });});
-    return {header:cols,rows:rows};
   }
 
   // ── INIT ─────────────────────────────────────────────
   function init(){
     document.getElementById('loading').style.display='flex';
     var pill=document.getElementById('statusPill'), st=document.getElementById('statusText');
-    loadSheet('Gastos')
-      .then(function(data){
+    loadJson()
+      .then(function(json){
         document.getElementById('loading').style.display='none';
         document.getElementById('content').style.display='block';
-        pill.className='pill ok'; st.textContent='Conectado';
+        pill.className='pill ok';
+        st.textContent='Atualizado em ' + (json.geradoEm || '—');
         document.querySelector('#statusPill .dot').classList.remove('live');
-        renderDashboard(data);
+        renderDashboard(json);
       })
       .catch(function(err){
         document.getElementById('loading').style.display='none';
-        document.getElementById('erroArea').innerHTML='<div class="erro-box">⚠️ '+escHtml(err.message)+'<br><br>Verifique se a planilha está compartilhada publicamente (Compartilhar → Qualquer pessoa com o link → Leitor).<br><br><a href="#" onclick="sessionStorage.removeItem(\'cf_auth\');location.reload();" style="color:var(--gold)">Sair / Reconectar</a></div>';
+        document.getElementById('erroArea').innerHTML='<div class="erro-box">⚠️ '+escHtml(err.message)+'<br><br>Verifique se o arquivo data.json já foi publicado no repositório GitHub.<br><br><a href="#" onclick="location.reload();" style="color:var(--gold)">Tentar novamente</a></div>';
         pill.className='pill err'; st.textContent='Erro';
       });
   }
 
   // ── RENDER ───────────────────────────────────────────
-  function renderDashboard(data){
-    _allGastos = data.rows.filter(function(r){return r[0]&&r[3];}).map(function(r){
-      return { data:r[0]||'', hora:r[1]||'', tipo:r[2]||'Pagamento', valor:parseBRL(r[3]),
-               beneficiario:r[4]||'', descricao:r[5]||'', categoria:r[6]||'(sem categoria)', mes:r[7]||''};
+  function renderDashboard(json){
+    // Suporta tanto o formato novo (json.gastos = array de objetos)
+    // quanto um fallback de segurança
+    _allGastos = (json.gastos || []).filter(function(g){ return g.data && g.valor; }).map(function(g){
+      return {
+        data:         g.data         || '',
+        hora:         g.hora         || '',
+        tipo:         g.tipo         || 'Pagamento',
+        valor:        typeof g.valor === 'number' ? g.valor : parseBRL(g.valor),
+        beneficiario: g.beneficiario || '',
+        descricao:    g.descricao    || '',
+        categoria:    g.categoria    || '(sem categoria)',
+        mes:          g.mes          || ''
+      };
     });
 
     // Build month list
