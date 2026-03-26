@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,maximum-scale=5"/>
 <title>Dashboard Financeiro — Confiance Energy</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
 <style>
@@ -34,7 +34,7 @@
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{
-  font-family:'Syne',sans-serif;
+  font-family:'Inter',sans-serif;
   background:var(--bg);
   color:var(--text);
   min-height:100vh;
@@ -73,7 +73,7 @@ header{
 .month-select{
   background:var(--panel2);
   border:1px solid var(--border);border-radius:10px;
-  color:var(--text);font-family:'Syne',sans-serif;
+  color:var(--text);font-family:'Inter',sans-serif;
   font-size:13px;font-weight:600;padding:8px 14px;
   cursor:pointer;outline:none;transition:border-color .2s;
 }
@@ -82,7 +82,7 @@ header{
 .pill{
   display:flex;align-items:center;gap:8px;padding:8px 16px;border-radius:999px;
   background:rgba(255,255,255,.04);border:1px solid var(--border);
-  font-size:12px;color:var(--muted);font-family:'DM Mono',monospace;
+  font-size:12px;color:var(--muted);font-family:'Inter',sans-serif;
 }
 .pill.ok{border-color:rgba(34,211,160,.35);color:var(--green);}
 .pill.err{border-color:rgba(244,63,94,.35);color:var(--rose);}
@@ -149,6 +149,21 @@ header{
 .chart-box-label{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:12px;}
 canvas{width:100%!important;height:240px!important;}
 #chCompareMeses{height:300px!important;}
+
+/* ── HTML TOOLTIP ── */
+#chartjs-tooltip {
+  opacity: 0; position: absolute; background: rgba(16,24,48,0.92);
+  backdrop-filter: blur(10px); border: 1px solid var(--border);
+  color: #fff; border-radius: 12px; padding: 12px; pointer-events: none;
+  transition: all .2s ease; z-index: 1000; box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+  font-family: 'Inter', sans-serif; min-width: 160px;
+}
+.tooltip-title { font-size: 13px; font-weight: 700; color: #fff; margin-bottom: 8px; border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+.tooltip-body { font-size: 12px; color: var(--muted); }
+.tooltip-val { font-size: 14px; font-weight: 700; color: #fff; margin: 4px 0; }
+.tooltip-diff { font-size: 11px; font-weight: 700; display: flex; align-items: center; gap: 4px; border-top: 1px solid var(--border); margin-top: 6px; padding-top: 6px; }
+.diff-up { color: #f87191; }
+.diff-down { color: #22d3a0; }
 
 /* ── CATEGORY FILTER (for comparison chart) ── */
 .chart-control{display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap;}
@@ -747,26 +762,65 @@ tbody tr:last-child td{border-bottom:none;}
         }]
       },
       options:{responsive:true,maintainAspectRatio:false,
-        layout:{padding:mob?{top:15,bottom:4,left:4,right:8}:{top:30,left:10,right:10}},
+        layout:{padding:mob?{top:25,bottom:4,left:4,right:8}:{top:35,left:10,right:10}},
         plugins:{legend:{display:false},
-          datalabels:{color:'#eef1ff',font:{family:'DM Mono',size:mob?8:10,weight:'bold'},anchor:'end',align:'top',offset:4,
+          datalabels:{color:'#fff',font:{family:'Inter',size:mob?10:11,weight:'600'},anchor:'end',align:'top',offset:8,
             formatter:function(v){return v>0?fmtBRL(v):'';},
             display:function(ctx){return ctx.dataset.data[ctx.dataIndex]>0;}
           },
-          tooltip:{callbacks:{
-            label:function(ctx){return ' '+fmtBRL(ctx.raw);},
-            afterLabel:function(ctx){
-              var i=ctx.dataIndex; if(i===0) return '';
-              var prev=ctx.dataset.data[i-1]; var cur=ctx.raw;
-              if(prev===0) return '';
-              var diff=((cur-prev)/prev*100).toFixed(1);
-              return (diff>=0?'+':'')+diff+'% vs mês anterior';
+          tooltip:{
+            enabled: false, // Disable built-in tooltip
+            external: function(context) {
+              // Tooltip Element
+              var tooltipEl = document.getElementById('chartjs-tooltip');
+              if (!tooltipEl) {
+                tooltipEl = document.createElement('div');
+                tooltipEl.id = 'chartjs-tooltip';
+                document.body.appendChild(tooltipEl);
+              }
+
+              // Hide if no tooltip
+              var tooltipModel = context.tooltip;
+              if (tooltipModel.opacity === 0) {
+                tooltipEl.style.opacity = 0;
+                return;
+              }
+
+              // Set Text
+              if (tooltipModel.body) {
+                var title = tooltipModel.title[0] || '';
+                var val = tooltipModel.body[0].lines[0];
+                var dataIndex = tooltipModel.dataPoints[0].dataIndex;
+                var dataset = tooltipModel.dataPoints[0].dataset;
+                
+                var html = '<div class="tooltip-title">' + title + '</div>';
+                html += '<div class="tooltip-body">Gasto Total:</div>';
+                html += '<div class="tooltip-val">' + val + '</div>';
+
+                if (dataIndex > 0) {
+                  var prev = dataset.data[dataIndex - 1];
+                  var cur = tooltipModel.dataPoints[0].raw;
+                  if (prev > 0) {
+                    var diff = ((cur - prev) / prev * 100).toFixed(1);
+                    var cls = diff > 0 ? 'diff-up' : 'diff-down';
+                    var icon = diff > 0 ? '▲' : '▼';
+                    html += '<div class="tooltip-diff ' + cls + '"><span>' + icon + '</span> ' + Math.abs(diff) + '% vs mês anterior</div>';
+                  }
+                }
+                tooltipEl.innerHTML = html;
+              }
+
+              var position = context.chart.canvas.getBoundingClientRect();
+              tooltipEl.style.opacity = 1;
+              tooltipEl.style.left = position.left + window.pageXOffset + tooltipModel.caretX + 'px';
+              tooltipEl.style.top = position.top + window.pageYOffset + tooltipModel.caretY + 'px';
+              tooltipEl.style.transform = 'translate(-50%, -110%)';
             }
-          }}
+          }
         },
         scales:{
-          x:{ticks:{color:'#6b7faa',font:{family:'DM Mono',size:mob?9:11}},grid:{display:false}},
-          y:{ticks:{color:'#6b7faa',font:{family:'DM Mono',size:mob?9:10},callback:function(v){
+          x:{ticks:{color:'#6b7faa',font:{family:'Inter',size:mob?9:11,weight:'500'}},grid:{display:false}},
+          y:{ticks:{color:'#6b7faa',font:{family:'Inter',size:mob?9:10},callback:function(v){
             if(v>=1000) return 'R$'+(v/1000).toFixed(1).replace('.0','')+'k';
             return 'R$'+v;
           }},grid:{color:'rgba(255,255,255,.04)'}}
@@ -830,13 +884,13 @@ tbody tr:last-child td{border-bottom:none;}
     sorted.forEach(function(g){
       var bc=g.tipo==='Transferência'?'badge-tra':g.tipo==='Ressarcimento'?'badge-res':'badge-pag';
       html+='<tr>'+
-        '<td style="font-family:DM Mono,monospace;font-size:11px;color:var(--muted);">'+escHtml(g.data)+'</td>'+
+        '<td style="font-family:\'Inter\',sans-serif;font-size:11px;color:var(--muted);font-weight:500;">'+escHtml(g.data)+'</td>'+
         '<td><span class="badge '+bc+'">'+escHtml(g.tipo)+'</span></td>'+
         '<td style="font-weight:600;">'+escHtml(g.beneficiario||'—')+'</td>'+
         '<td style="color:var(--muted);font-size:12px;max-width:240px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">'+escHtml(g.descricao||'—')+'</td>'+
         '<td><span style="font-size:10px;padding:2px 8px;border-radius:6px;background:rgba(255,255,255,.06);color:var(--text);">'+escHtml(g.categoria)+'</span></td>'+
-        '<td style="font-family:DM Mono,monospace;font-size:11px;color:var(--muted);">'+escHtml(g.mes)+'</td>'+
-        '<td class="right">'+fmtBRL(g.valor)+'</td>'+
+        '<td style="font-family:\'Inter\',sans-serif;font-size:11px;color:var(--muted);font-weight:500;">'+escHtml(g.mes)+'</td>'+
+        '<td class="right" style="font-family:\'Inter\',sans-serif;font-weight:600;">'+fmtBRL(g.valor)+'</td>'+
       '</tr>';
     });
     document.getElementById('tblBody').innerHTML=html||'<tr><td colspan="7" style="text-align:center;color:var(--muted);padding:24px;">Nenhum lançamento encontrado.</td></tr>';
