@@ -1,5 +1,5 @@
 {
-  "geradoEm": "26/03/2026 15:53",
+  "geradoEm": "26/03/2026 16:10",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -9,7 +9,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, instalações de MARIA DAS DORES DA SILVA NUNES, NATALIA ANACLETO DE GÓES, CLEANNE LARANJEIRA MONTEIRO, JOAO TOMAZ DE ARAUJO SOBRINHO, KERGINALDO JANUARIO DE CARVALHO JUNIOR, ALINE SILVA MELO, VANDECARLOS DE FREITAS, ALLYNE JANE DE SOUZA SILVA, LURDETE TINOCO DE FARIAS SOUZA E FRANCIMA TINOCO DE FARIAS LIMA.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -19,7 +19,7 @@
       "beneficiario": "LDF",
       "descricao": "para LDF, material CA em grande quantidade (principalmente cabos pra o mês).",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -29,7 +29,7 @@
       "beneficiario": "Caern",
       "descricao": "para Caern, conta de água do mês de Janeiro/26.",
       "categoria": "Água",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -39,7 +39,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, deslocamentos de material realizados hoje.",
       "categoria": "Mobilidade",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -49,7 +49,7 @@
       "beneficiario": "",
       "descricao": "referente segunda parcela do cliente ALESSANDRO ALDRY COUTINHO DA SILVA",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -59,7 +59,7 @@
       "beneficiario": "",
       "descricao": "referente a parcela da cliente ADEILZA MARTINS DE ALMEIDA SILVA, demora na troca e aprovação do projeto.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -69,7 +69,7 @@
       "beneficiario": "Ludgero",
       "descricao": "para Ludgero, monitoramentos feitos.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -79,7 +79,7 @@
       "beneficiario": "Peu",
       "descricao": "para Peu, serviços prestados no mês de Janeiro/26 e 22 vendas em Janeiro e 2 pendentes de Dezembro.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -89,7 +89,7 @@
       "beneficiario": "Fabio Fernandes",
       "descricao": "Trt Fabio Fernandes",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -99,7 +99,7 @@
       "beneficiario": "Jaqueline Barbosa",
       "descricao": "Trt Jaqueline Barbosa",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -109,7 +109,7 @@
       "beneficiario": "Victor Hugo Lopes",
       "descricao": "Trt Victor Hugo Lopes",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -119,7 +119,7 @@
       "beneficiario": "Edson Alves",
       "descricao": "Trt Edson Alves",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -129,7 +129,7 @@
       "beneficiario": "Mayque Melo",
       "descricao": "Trt Mayque Melo",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -139,7 +139,7 @@
       "beneficiario": "Marcia Maria",
       "descricao": "Trt Marcia Maria",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -149,7 +149,7 @@
       "beneficiario": "Severino Maciel",
       "descricao": "Trt Severino Maciel",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/02/2026",
@@ -159,7 +159,7 @@
       "beneficiario": "",
       "descricao": "referente a primeira parcela do IPTU do prédio.",
       "categoria": "Impostos",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "03/02/2026",
@@ -169,7 +169,7 @@
       "beneficiario": "Brisanet",
       "descricao": "para Brisanet, internet do escritório.",
       "categoria": "Internet",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "03/02/2026",
@@ -179,7 +179,7 @@
       "beneficiario": "Fotus",
       "descricao": "para Fotus, material do cliente FRANCISCO CANINDE SILVA DA CRUZ.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "03/02/2026",
@@ -189,7 +189,7 @@
       "beneficiario": "Andrey advogado",
       "descricao": "para Andrey advogado, serviços jurídicos prestados no início do ano.",
       "categoria": "Jurídico",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "03/02/2026",
@@ -199,7 +199,7 @@
       "beneficiario": "Andrey",
       "descricao": "para Andrey, comissões de VITORIA SANDRA ARAUJO DE MIRANDA, JOSELY ALESSANDRA BEZERRA JERONIMO E AF ADMINISTRAÇÃO DE CONDOMÍNIOS LTDA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "04/02/2026",
@@ -209,7 +209,7 @@
       "beneficiario": "",
       "descricao": "referente a fatura do cartão Pagbank, do mês de Janeiro/26.",
       "categoria": "Cartão de Crédito",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "04/02/2026",
@@ -219,7 +219,7 @@
       "beneficiario": "obra de MARY CINTHIA LOPES GALVAO",
       "descricao": "referente a compra de cabos adicionais para obra de MARY CINTHIA LOPES GALVAO",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "04/02/2026",
@@ -229,7 +229,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, cancelamento da cliente OZIANA MATIAS DOS SANTOS.",
       "categoria": "Estorno",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "04/02/2026",
@@ -239,7 +239,7 @@
       "beneficiario": "melhor envio",
       "descricao": "para melhor envio, envio de material para Fortunato (Pau dos ferros).",
       "categoria": "Frete",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "04/02/2026",
@@ -249,7 +249,7 @@
       "beneficiario": "Francisco Caninde",
       "descricao": "Trt Francisco Caninde",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -259,7 +259,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação do cliente JULIO CEZAR NASCIMENTO NOBRE",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -269,7 +269,7 @@
       "beneficiario": "Erivaldo Pinheiro",
       "descricao": "Trt Erivaldo Pinheiro",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -279,7 +279,7 @@
       "beneficiario": "Pedro em espécie",
       "descricao": "para Pedro em espécie, ajuda de custo do mês de Fevereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -289,7 +289,7 @@
       "beneficiario": "Bernardo em espécie",
       "descricao": "para Bernardo em espécie, ajuda de custo do mês de Fevereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -299,7 +299,7 @@
       "beneficiario": "Derek em espécie",
       "descricao": "para Derek em espécie, ajuda de custo do mês de Favereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -309,7 +309,7 @@
       "beneficiario": "Dudé",
       "descricao": "em espécie para Dudé, ajuda de custo do mês de Favereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -319,7 +319,7 @@
       "beneficiario": "Hyasmin em espécie",
       "descricao": "para Hyasmin em espécie, ajuda de custo do mês de Fevereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -329,7 +329,7 @@
       "beneficiario": "Rodrigues",
       "descricao": "em espécie para Rodrigues, aluguel da viatura. O restante (R$580,00) será pago via pix.",
       "categoria": "Mobilidade",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -339,7 +339,7 @@
       "beneficiario": "Ingrid em espécie",
       "descricao": "para Ingrid em espécie, ajuda de custo do mês de Fevereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -349,7 +349,7 @@
       "beneficiario": "",
       "descricao": "referente a conta de energia do cliente Lucivaldo Guedes da Silva, demora na aprovação da vistoria.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -359,7 +359,7 @@
       "beneficiario": "Ednezer",
       "descricao": "para Ednezer, instalações de ALCIVANIO FERREIRA DE OLIVEIRA, RUBIA CARDOSO JALES, ANTONIA ALICE ALMEIDA E JAYNEIDE ARAUJO BATISTA.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -369,7 +369,7 @@
       "beneficiario": "Fortunato",
       "descricao": "para Fortunato, instalações de FRANCISCO GILBERLANDIO DA COSTA E FRANCISCO EDUARDO LOPES DE SOUZA.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -379,7 +379,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material da cliente FRANCISCA DAS CHAGAS MACHADO.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "05/02/2026",
@@ -389,7 +389,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação do cliente JOSEMAR RODRIGUES DOS SANTOS.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -399,7 +399,7 @@
       "beneficiario": "LDF",
       "descricao": "para LDF, material CA complementar.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -409,7 +409,7 @@
       "beneficiario": "Fotus",
       "descricao": "para Fotus, material do cliente EDYBETSON FERNANDES MARQUES DA SILVA.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -419,7 +419,7 @@
       "beneficiario": "Leonardo instalador",
       "descricao": "para Leonardo instalador, instalação da cliente MARY CINTHIA LOPES GALVAO",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -429,7 +429,7 @@
       "beneficiario": "Elifabio instalador",
       "descricao": "para Elifabio instalador, instalação do cliente FRANCISCO BEZERRA GUEDES.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -439,7 +439,7 @@
       "beneficiario": "Leonardo instalador",
       "descricao": "para Leonardo instalador, instalação do cliente IGREJA E. ASSEMBLEIA DE DEUS NO RN.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -449,7 +449,7 @@
       "beneficiario": "Francisca das Chagas",
       "descricao": "Trt Francisca das Chagas",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -459,7 +459,7 @@
       "beneficiario": "Marivania Gomes",
       "descricao": "Trt Marivania Gomes",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -469,7 +469,7 @@
       "beneficiario": "Jessica Rayane",
       "descricao": "Trt Jessica Rayane",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "06/02/2026",
@@ -479,7 +479,7 @@
       "beneficiario": "Igor de Melo",
       "descricao": "Trt Igor de Melo",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "07/02/2026",
@@ -489,7 +489,7 @@
       "beneficiario": "Vivo",
       "descricao": "para Vivo, internet secundária do escritório.",
       "categoria": "Internet",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -499,7 +499,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação da cliente RAQUEL SILVA DOS SANTOS.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -509,7 +509,7 @@
       "beneficiario": "",
       "descricao": "referente ao material CA dos clientes EDSON PAULO DOS SANTOS e EDNA MARIA DE OLIVEIRA (Cabrobó).",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -519,7 +519,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente Tarcizo Henriques Pessoa.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -529,7 +529,7 @@
       "beneficiario": "",
       "descricao": "referente ao material CA da cliente MIRIAN ROSIMEIRE DOS SANTOS (Cabrobó).",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -539,7 +539,7 @@
       "beneficiario": "prefeitura",
       "descricao": "referente a taxa de localização paga para prefeitura.",
       "categoria": "Impostos",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -549,7 +549,7 @@
       "beneficiario": "",
       "descricao": "Compra R$522,41 de material CA na Alphatronic",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -559,7 +559,7 @@
       "beneficiario": "Silara Jasielle",
       "descricao": "Trt Silara Jasielle",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -569,7 +569,7 @@
       "beneficiario": "Tarcizo Henriques",
       "descricao": "Trt Tarcizo Henriques",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "09/02/2026",
@@ -579,7 +579,7 @@
       "beneficiario": "Edybetson Fernandes",
       "descricao": "Trt Edybetson Fernandes",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -589,7 +589,7 @@
       "beneficiario": "Jucern",
       "descricao": "para Jucern, mudança do cnpj Confix.",
       "categoria": "Jurídico",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -599,7 +599,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material da cliente LAURINETE ALVES DE SOUZA.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -609,7 +609,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, deslocamento do material realizado hoje.",
       "categoria": "Mobilidade",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -619,7 +619,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente ERICK NOBRE DANTAS ROCHA.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -629,7 +629,7 @@
       "beneficiario": "",
       "descricao": "conta de energia do cliente MARIA JOSE CHOLE DOS SANTOS, erro do projetista.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -639,7 +639,7 @@
       "beneficiario": "Luciano da Costa",
       "descricao": "Trt Luciano da Costa",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -649,7 +649,7 @@
       "beneficiario": "Francisco Magnum",
       "descricao": "Trt Francisco Magnum",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -659,7 +659,7 @@
       "beneficiario": "Alessandro Floriano",
       "descricao": "Trt Alessandro Floriano",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "10/02/2026",
@@ -669,7 +669,7 @@
       "beneficiario": "Laurinete Alves",
       "descricao": "Trt Laurinete Alves",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "11/02/2026",
@@ -679,7 +679,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação da cliente BETIANE GRAZIELA DE MELO PIMENTEL",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "11/02/2026",
@@ -689,7 +689,7 @@
       "beneficiario": "Rodrigues em espécie",
       "descricao": "para Rodrigues em espécie, limpeza do prédio e custos em geral.",
       "categoria": "Manutenção",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "11/02/2026",
@@ -699,7 +699,7 @@
       "beneficiario": "Silvaneide Ferreira",
       "descricao": "Trt Silvaneide Ferreira",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "11/02/2026",
@@ -709,7 +709,7 @@
       "beneficiario": "",
       "descricao": "referente as contas de energia da cliente MARIA LUCIENE DA SILVA MEDEIROS, erro do vendedor Pedro (será descontado na próxima comissão.)",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -719,7 +719,7 @@
       "beneficiario": "",
       "descricao": "referente ao imposto do simples nacional do mês de Janeiro/26. 🙏🏻",
       "categoria": "Impostos",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -729,7 +729,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente Ellison Tavares De Oliveira Rocha",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -739,7 +739,7 @@
       "beneficiario": "Oliveira",
       "descricao": "para Oliveira, serviços contábeis do mês de Janeiro/Fevereiro/26.",
       "categoria": "Contabilidade",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -749,7 +749,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material nosso para instalação de projeto aqui no prédio.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -759,7 +759,7 @@
       "beneficiario": "",
       "descricao": "referente ao inss da folha de pagamento (imposto).",
       "categoria": "Impostos",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -769,7 +769,7 @@
       "beneficiario": "Lenilson Rodrigo",
       "descricao": "Trt Lenilson Rodrigo",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -779,7 +779,7 @@
       "beneficiario": "Yasmim Manuella",
       "descricao": "Trt Yasmim Manuella",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -789,7 +789,7 @@
       "beneficiario": "Antonia Alice",
       "descricao": "Trt Antonia Alice",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -799,7 +799,7 @@
       "beneficiario": "Eletrofios",
       "descricao": "para Eletrofios, material CA que será utilizado em 4 obras em Pau dos Ferros e região.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -809,7 +809,7 @@
       "beneficiario": "Monte Sinai",
       "descricao": "para Monte Sinai, eletrodutos e curvas.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -819,7 +819,7 @@
       "beneficiario": "melhor envio",
       "descricao": "para melhor envio, correção de peso nos Correios.",
       "categoria": "Frete",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -829,7 +829,7 @@
       "beneficiario": "melhor envio",
       "descricao": "para melhor envio, envio de material pra Ednezer.",
       "categoria": "Frete",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -839,7 +839,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, compra de domínio e nova caixa de e-mail pra Confix",
       "categoria": "Marketing",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -849,7 +849,7 @@
       "beneficiario": "Maria Raniele",
       "descricao": "Trt Maria Raniele",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -859,7 +859,7 @@
       "beneficiario": "Olindina Silva",
       "descricao": "Trt Olindina Silva",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -869,7 +869,7 @@
       "beneficiario": "Joao Paulo Tacio",
       "descricao": "Trt Joao Paulo Tacio",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -879,7 +879,7 @@
       "beneficiario": "Francisca Fabiana",
       "descricao": "Trt Francisca Fabiana",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -889,7 +889,7 @@
       "beneficiario": "Firmino Candido",
       "descricao": "Trt Firmino Candido",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -899,7 +899,7 @@
       "beneficiario": "Maria Jozileide",
       "descricao": "Trt Maria Jozileide",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -909,7 +909,7 @@
       "beneficiario": "Franiele Santos",
       "descricao": "Trt Franiele Santos",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -919,7 +919,7 @@
       "beneficiario": "Evodio Melo",
       "descricao": "Trt Evodio Melo",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -929,7 +929,7 @@
       "beneficiario": "Francisco Antonio de Oliveira",
       "descricao": "Trt Francisco Antonio de Oliveira (erro no comprovante)",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "12/02/2026",
@@ -939,7 +939,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação do cliente LENILSON RODRIGO SOUZA DA SILVA",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -949,7 +949,7 @@
       "beneficiario": "o melhor envio",
       "descricao": "para o melhor envio, envio de material para Fortunato (Pau dos Ferros).",
       "categoria": "Frete",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -959,7 +959,7 @@
       "beneficiario": "Rafael",
       "descricao": "para Rafael, comissões de EDSON ALEX FREITAS DA SILVA E AISLAN HIAGO DE OLIVEIRA BERTULEZA (pagamento será feito pra Alisson, pra não estourar meu limite de recebimento mensal).",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -969,7 +969,7 @@
       "beneficiario": "Alisson",
       "descricao": "para Alisson, comissão de LAURINETE ALVES DE SOUZA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -979,7 +979,7 @@
       "beneficiario": "Hyasmin",
       "descricao": "para Hyasmin, comissões de LURDETE TINOCO DE FARIAS SOUZA, LUCIANO DA COSTA RODRIGUES, ALESSANDRO FLORIANO DOS SANTOS E FRANCISCA MARIA DE LIMA SILVA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -989,7 +989,7 @@
       "beneficiario": "LDF",
       "descricao": "para LDF, material CA complementar.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -999,7 +999,7 @@
       "beneficiario": "Derek",
       "descricao": "para Derek, comissões de RODRIGO XAVIER DE MORAIS, HYLONA PEREIRA GOMES CAETANO E MARIA DAS DORES SILVA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1009,7 +1009,7 @@
       "beneficiario": "Ingrid",
       "descricao": "para Ingrid, comissões de EVODIO MELO SILVEIRA DA CRUZ, FRANIELE SANTOS DA SILVA E ERICK NOBRE DANTAS ROCHA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1019,7 +1019,7 @@
       "beneficiario": "Dantas",
       "descricao": "para Dantas, material CA complementar.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1029,7 +1029,7 @@
       "beneficiario": "Forceline",
       "descricao": "para Forceline, material CA complementar",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1039,7 +1039,7 @@
       "beneficiario": "Florânia",
       "descricao": "referente ao envio de material para Florânia.",
       "categoria": "Frete",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1049,7 +1049,7 @@
       "beneficiario": "Pedro",
       "descricao": "para Pedro, comissões JOAO BATISTA PINHEIRO DE OLIVEIRA E MARIA RANIELE VASCONCELOS SILVA",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1059,7 +1059,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, pagamento da conta da cliente de Pedro.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1069,7 +1069,7 @@
       "beneficiario": "Deborah",
       "descricao": "para Deborah, comissão de FRANCISCO MAGNUM DA SILVA",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1079,7 +1079,7 @@
       "beneficiario": "Bernardo",
       "descricao": "para Bernardo, comissões de FRANCISCA FABIANA DA SILVA OLIVEIRA, MARIA ZELIA DA SILVA E OLINDINA SILVA PEREIRA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1089,7 +1089,7 @@
       "beneficiario": "",
       "descricao": "referente as instalações de EDSON PAULO DOS SANTOS, EDNA MARIA DE OLIVEIRA E MIRIAN ROSIMEIRE DOS SANTOS, obras de Cabrobó.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "13/02/2026",
@@ -1099,7 +1099,7 @@
       "beneficiario": "Dudé",
       "descricao": "para Dudé, comissões de RAFAELA FREIRE FERNANDES, FRANCISCA DAS CHAGAS MACHADO E MARIA MAGNA SANTOS DE ARAUJO.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1109,7 +1109,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, instalações de JONAS CESARIO, FRANCISCO ALVES DA SILVA, IEDA NEVES DA SILVA TORRES, WANDERSON PIRES DE SOUZA, JOAO PAULO TACIO DA COSTA SANTOS, FRANCISCO GEORGE DE AZEVEDO, MARIA FERNANDA DE ARAUJO SILVA, ANDERSON CLAUDIO RODRIGUES DA SILVA, SIMONELE DA SILVA AQUINO, MARIO JULIO DO NASCIMENTO, RICARDO MIRANDA DA SILVA, GILDESSON CAMARA, MARCELO NUNES DA SILVA, TIAGO HENRIQUE DA SILVA DE BRITO, OZAIAS CARAPUCA DA SILVA, FABRICIO KELLY DE LIMA, MARIA DE FATIMA ALVES, JOSE JOCELY DE OLIVEIRA JUNIOR, FELIPY FAUSTINO DA SILVA LIMA, MARIA LUIZA BEZERRA DE SOUSA E TEREZINHA DE JESUS SOARES DA SILVA.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1119,7 +1119,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, assistências realizadas.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1129,7 +1129,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação da cliente ERICARLA VARELA DANTAS.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1139,7 +1139,7 @@
       "beneficiario": "Rosimeire Fernandes.",
       "descricao": "Trt Rosimeire Fernandes (não saiu comprovante).",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1149,7 +1149,7 @@
       "beneficiario": "Waldenice Maria",
       "descricao": "Trt Waldenice Maria",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1159,7 +1159,7 @@
       "beneficiario": "Simonele da Silva",
       "descricao": "Trt Simonele da Silva",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1169,7 +1169,7 @@
       "beneficiario": "Rafaela Freire",
       "descricao": "Trt Rafaela Freire",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "15/02/2026",
@@ -1179,7 +1179,7 @@
       "beneficiario": "Erick Nobre Dantas",
       "descricao": "Trt Erick Nobre Dantas",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "18/02/2026",
@@ -1189,7 +1189,7 @@
       "beneficiario": "",
       "descricao": "referente ao material usado no reparo da usina de Rui Nobrega.",
       "categoria": "Manutenção",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "18/02/2026",
@@ -1199,7 +1199,7 @@
       "beneficiario": "farda",
       "descricao": "referente a 50% da confecção de 20 camisas pra farda.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "19/02/2026",
@@ -1209,7 +1209,7 @@
       "beneficiario": "Rafael em espécie",
       "descricao": "para Rafael em espécie, comissões de EDYBETSON FERNANDES MARQUES DA SILVA, WALDENICE MARIA CARDOSO MATOSO E JOSE ODENILSON LINS.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "19/02/2026",
@@ -1219,7 +1219,7 @@
       "beneficiario": "Confix",
       "descricao": "referente a compra do certificado digital pra Confix.",
       "categoria": "Jurídico",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "19/02/2026",
@@ -1229,7 +1229,7 @@
       "beneficiario": "",
       "descricao": "referente ao boleto da cliente VANESSA CRISTINA DA SILVA, erro no projeto.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1239,7 +1239,7 @@
       "beneficiario": "Alcivanio Ferreira",
       "descricao": "Trt Alcivanio Ferreira",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1249,7 +1249,7 @@
       "beneficiario": "Janicleia Ferreira",
       "descricao": "Trt Janicleia Ferreira",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1259,7 +1259,7 @@
       "beneficiario": "Maria das Dores",
       "descricao": "Trt Maria das Dores",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1269,7 +1269,7 @@
       "beneficiario": "Keliton De Andrade",
       "descricao": "Trt Keliton De Andrade",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1279,7 +1279,7 @@
       "beneficiario": "Paulo Umberto",
       "descricao": "Trt Paulo Umberto",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1289,7 +1289,7 @@
       "beneficiario": "Fortunato",
       "descricao": "para Fortunato, instalações de JAQUELINE TEIXEIRA DE SOUZA E MARIA DAS DORES GOMES NETA.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1299,7 +1299,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente PAULO FERREIRA DE SOUSA",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "20/02/2026",
@@ -1309,7 +1309,7 @@
       "beneficiario": "Alisson",
       "descricao": "em espécie para Alisson, lembrancinhas do dia das mulheres.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "23/02/2026",
@@ -1319,7 +1319,7 @@
       "beneficiario": "Ldf",
       "descricao": "para Ldf, material CA complementar.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "23/02/2026",
@@ -1329,7 +1329,7 @@
       "beneficiario": "Dantas",
       "descricao": "para Dantas, material CA complementar.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "23/02/2026",
@@ -1339,7 +1339,7 @@
       "beneficiario": "Felipe",
       "descricao": "para Felipe, patrocínio.",
       "categoria": "Marketing",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "23/02/2026",
@@ -1349,7 +1349,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, serviço de Rui.",
       "categoria": "Manutenção",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "23/02/2026",
@@ -1359,7 +1359,7 @@
       "beneficiario": "Monte Sinai",
       "descricao": "para Monte Sinai, eletrodutos e curvas.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "23/02/2026",
@@ -1369,7 +1369,7 @@
       "beneficiario": "Leonardo instalador",
       "descricao": "para Leonardo instalador, instalação do cliente JAMACI DIRLEI DA SILVA.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "24/02/2026",
@@ -1379,7 +1379,7 @@
       "beneficiario": "",
       "descricao": "referente a conta de energia do prédio do mês de Fevereiro/26.",
       "categoria": "Energia",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "24/02/2026",
@@ -1389,7 +1389,7 @@
       "beneficiario": "Alphatronic",
       "descricao": "para Alphatronic, compra de disjuntor de 80a trifásico.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "24/02/2026",
@@ -1399,7 +1399,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, deslocamento das placas do cliente JAMACI DIRLEI DA SILVA",
       "categoria": "Mobilidade",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "24/02/2026",
@@ -1409,7 +1409,7 @@
       "beneficiario": "Eletrofios",
       "descricao": "para Eletrofios, material CA utilizado por Fortunato.",
       "categoria": "Material CA",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "24/02/2026",
@@ -1419,7 +1419,7 @@
       "beneficiario": "Rafael",
       "descricao": "em espécie para Rafael, conserto do gol lá em Barcelar",
       "categoria": "Mobilidade",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "24/02/2026",
@@ -1429,7 +1429,7 @@
       "beneficiario": "Rafael em espécie",
       "descricao": "para Rafael em espécie, comissão de MARCOS TINDOR DE SOUZA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "25/02/2026",
@@ -1439,7 +1439,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, instalações de JOSE PEREIRA DA SILVA, FRANCISCO ANTONIO DE OLIVEIRA, GABRIELLE VITOR MARTINS, EVODIO MELO SILVEIRA DA CRUZ, ERIVALDO PINHEIRO GOMES, SEVERINO MACIEL DA SILVA, MAYQUE MELO DA ROCHA, FABIO FERNANDES DANTAS E MARIVANIA GOMES DA SILVA LIMA.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "25/02/2026",
@@ -1449,7 +1449,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, assistências realizadas.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "25/02/2026",
@@ -1459,7 +1459,7 @@
       "beneficiario": "conta da Comfio",
       "descricao": "Aporte de R$100,00 para conta da Comfio, pagamento da fatura do cartão.",
       "categoria": "Cartão de Crédito",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "25/02/2026",
@@ -1469,7 +1469,7 @@
       "beneficiario": "",
       "descricao": "referente ao aluguel do prédio.",
       "categoria": "Aluguel",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1479,7 +1479,7 @@
       "beneficiario": "Antonia Alice",
       "descricao": "Trt Antonia Alice",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1489,7 +1489,7 @@
       "beneficiario": "Joao Batista Pinheiro",
       "descricao": "Trt Joao Batista Pinheiro",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1499,7 +1499,7 @@
       "beneficiario": "Maria Zelia",
       "descricao": "Trt Maria Zelia",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1509,7 +1509,7 @@
       "beneficiario": "Jose Raimundo",
       "descricao": "Trt Jose Raimundo",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1519,7 +1519,7 @@
       "beneficiario": "Nilza Castilho",
       "descricao": "Trt Nilza Castilho",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1529,7 +1529,7 @@
       "beneficiario": "Diego Soares de Lima",
       "descricao": "Trt Diego Soares de Lima",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1539,7 +1539,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação de SELMA LUCIA NETO.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1549,7 +1549,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, diferença no material da cliente MARIA RANIELE VASCONCELOS SILVA",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1559,7 +1559,7 @@
       "beneficiario": "Fortunato",
       "descricao": "para Fortunato, instalações de Janderson Soares Gomes, Adolpho Jefferson Barbosa e Silva Linhares, Maria Jozileide Gomes Alves, Erica Clarisse Bezerra Chaves e Maria Damiana De Oliveira Silva.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1569,7 +1569,7 @@
       "beneficiario": "Rosiane de Souza",
       "descricao": "Trt Rosiane de Souza",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1579,7 +1579,7 @@
       "beneficiario": "Gabrielle Vitor",
       "descricao": "Trt Gabrielle Vitor",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1589,7 +1589,7 @@
       "beneficiario": "Ana Carla Farias",
       "descricao": "Trt Ana Carla Farias",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "26/02/2026",
@@ -1599,7 +1599,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, deslocamento realizado hoje.",
       "categoria": "Mobilidade",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1609,7 +1609,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente RAIMUNDO NONATO DA SILVA",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1619,7 +1619,7 @@
       "beneficiario": "",
       "descricao": "referente a segurança do prédio.",
       "categoria": "Manutenção",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1629,7 +1629,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, instalações de REGINALDO PAULINO DA SILVA, FRANCISCA DAS CHAGAS MACHADO, EDSON ALEX FREITAS DA SILVA, AISLAN HIAGO DE OLIVEIRA BERTULEZA, PAULO UMBERTO SIMONATO E Edybetson Fernandes Marques da Silva.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1639,7 +1639,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, assistências realizadas.",
       "categoria": "Instalações",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1649,7 +1649,7 @@
       "beneficiario": "Daniel",
       "descricao": "para Daniel, serviços prestados no mês de Fevereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1659,7 +1659,7 @@
       "beneficiario": "Lara",
       "descricao": "para Lara, serviços prestados no mês de Fevereiro/26 + 10 indicações e um fechamento.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1669,7 +1669,7 @@
       "beneficiario": "Hyasmin",
       "descricao": "para Hyasmin, comissões de FRANCIMA TINOCO DE FARIAS LIMA, GENICLEIDE MEDEIROS DE ALMEIDA, FRANCISCO ERLANDIO DA SILVA, DAMIAO PEDRO DE OLIVEIRA E RAIMUNDO NONATO DA SILVA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1679,7 +1679,7 @@
       "beneficiario": "Jennyfer",
       "descricao": "para Jennyfer, serviços prestados no mês de Fevereiro/26 +16 indicações e 3 fechamentos.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1689,7 +1689,7 @@
       "beneficiario": "Dudé",
       "descricao": "para Dudé, comissões de KELITON DE ANDRADE SILVA E MARIA SUELY DA SILVA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1699,7 +1699,7 @@
       "beneficiario": "Ludgero",
       "descricao": "para Ludgero, serviços prestados no mês de Fevereiro/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1709,7 +1709,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material da cliente ERLANE MAYARA BERTAO LIMA.",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1719,7 +1719,7 @@
       "beneficiario": "Victor Hugo",
       "descricao": "para Victor Hugo, responsável técnico no CFT.",
       "categoria": "Pessoal",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1729,7 +1729,7 @@
       "beneficiario": "Bernardo",
       "descricao": "para Bernardo, comissões de ROSIMEIRE FERNANDES DOS SANTOS E ANNA LUIZA ALVES JALES.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1739,7 +1739,7 @@
       "beneficiario": "Deborah",
       "descricao": "para Deborah, comissões de DIEGO SOARES DE LIMA, JOAO MARIA DE MACEDO E MARCIO FELIX DA SILVA",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1749,7 +1749,7 @@
       "beneficiario": "Fotus",
       "descricao": "para Fotus, complemento do material de ANNA LUIZA ALVES JALES",
       "categoria": "Material FV",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1759,7 +1759,7 @@
       "beneficiario": "Ingrid",
       "descricao": "para Ingrid, comissões de ANA MARIA TARJINO DE AZEVEDO, JOAO ENEAS BEZERRA NETO, RENATA EVELEM COSTA MEDEIROS E MOACIR PEDRO RIBEIRO.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1769,7 +1769,7 @@
       "beneficiario": "Francisco Erlandio",
       "descricao": "Trt Francisco Erlandio",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1779,7 +1779,7 @@
       "beneficiario": "Hylona Pereira",
       "descricao": "Trt Hylona Pereira",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1789,7 +1789,7 @@
       "beneficiario": "Erlane Mayara",
       "descricao": "Trt Erlane Mayara",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1799,7 +1799,7 @@
       "beneficiario": "Joao Maria de Macedo",
       "descricao": "Trt Joao Maria de Macedo",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1809,7 +1809,7 @@
       "beneficiario": "Jose Odenilson",
       "descricao": "Trt Jose Odenilson",
       "categoria": "TRT",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1819,7 +1819,7 @@
       "beneficiario": "Pedro",
       "descricao": "para Pedro, comissões de PAULO FERREIRA DE SOUSA, JANICLEIA FERREIRA DA ROCHA SOARES E ANA CARLA FARIAS DE OLIVEIRA SANTOS.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "27/02/2026",
@@ -1829,7 +1829,7 @@
       "beneficiario": "Pedro",
       "descricao": "para Pedro, comissão de ERLANE MAYARA BERTAO LIMA.",
       "categoria": "Comissões",
-      "mes": "Sun Feb 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "02/2026"
     },
     {
       "data": "02/03/2026",
@@ -1839,7 +1839,7 @@
       "beneficiario": "Andrey",
       "descricao": "para Andrey, comissões de LUCINEIDE FERNANDES REINALDO DE MORAES, ILDESON GERALDO SILVA, STEFFANI YASLLINE DAVINO DA SILVA, THAIS DOS SANTOS SILVA, ANA PAULA COELHO FEITOSA DE PAIVA, JANUBIA OLIVEIRA DA SILVA GOMES, DANILO NUNES DA SILVA E AECIO SALVINO PEREIRA.",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1849,7 +1849,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, renovação do dark",
       "categoria": "Marketing",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1859,7 +1859,7 @@
       "beneficiario": "Dantas",
       "descricao": "para Dantas, material CA complementar.",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1869,7 +1869,7 @@
       "beneficiario": "Ldf",
       "descricao": "para Ldf, material CA complementar.",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1879,7 +1879,7 @@
       "beneficiario": "Arthur",
       "descricao": "para Arthur, serviços prestados no mês de Fevereiro e aprovação de 81 projetos.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1889,7 +1889,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material da cliente GILVANIA EVANGELISTA DA SILVA FERREIRA",
       "categoria": "Material FV",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1899,7 +1899,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação da cliente ROSIMEIRE FERNANDES DOS SANTOS",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1909,7 +1909,7 @@
       "beneficiario": "Ednezer",
       "descricao": "para Ednezer, instalações de ROBSON VINICIUS DA SILVA CARDOSO E JOSE VALTENBERG DOS SANTOS.",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1919,7 +1919,7 @@
       "beneficiario": "",
       "descricao": "referente ao Difal do mês de Janeiro/26.",
       "categoria": "Impostos",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1929,7 +1929,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, pagamento do Difal icms Comfio e Endereço fiscal da Confix.",
       "categoria": "Impostos",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1939,7 +1939,7 @@
       "beneficiario": "",
       "descricao": "referente ao IPTU do mês de Março/26.",
       "categoria": "Impostos",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1949,7 +1949,7 @@
       "beneficiario": "Brisanet",
       "descricao": "para Brisanet, internet do escritório.",
       "categoria": "Internet",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1959,7 +1959,7 @@
       "beneficiario": "Andrey advogado",
       "descricao": "para Andrey advogado, última parcela da elaboração do contrato social e acordo de sócios Comfio.",
       "categoria": "Jurídico",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1969,7 +1969,7 @@
       "beneficiario": "Derek",
       "descricao": "para Derek, abastecimento da viatura no externo.",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "02/03/2026",
@@ -1979,7 +1979,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, patrocínio do tracking.",
       "categoria": "Marketing",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "03/03/2026",
@@ -1989,7 +1989,7 @@
       "beneficiario": "",
       "descricao": "referente a conta de água do prédio.",
       "categoria": "Água",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "03/03/2026",
@@ -1999,7 +1999,7 @@
       "beneficiario": "Peu",
       "descricao": "pra Peu, serviços prestados no mês de Fevereiro/26 + 20 vendas do tráfego.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "03/03/2026",
@@ -2009,7 +2009,7 @@
       "beneficiario": "Andrey",
       "descricao": "para Andrey, premiações pagas.",
       "categoria": "Premiações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2019,7 +2019,7 @@
       "beneficiario": "",
       "descricao": "referente a fatura do cartão pagbank, do mês de Fevereiro/26.",
       "categoria": "Cartão de Crédito",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2029,7 +2029,7 @@
       "beneficiario": "",
       "descricao": "referente a instalação do cliente JOSE RAIMUNDO DE MEDEIROS.",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2039,7 +2039,7 @@
       "beneficiario": "Fabinho instalador",
       "descricao": "para Fabinho instalador, instalação do cliente IGOR DE MELO BATISTA.",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2049,7 +2049,7 @@
       "beneficiario": "Eletromega",
       "descricao": "para Eletromega, compra de adaptadores.",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2059,7 +2059,7 @@
       "beneficiario": "Ingrid",
       "descricao": "para Ingrid, ajuda de custo dp mês de Março/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2069,7 +2069,7 @@
       "beneficiario": "Hyasmin",
       "descricao": "para Hyasmin, ajuda de custo do mês de Março/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2079,7 +2079,7 @@
       "beneficiario": "Bernardo",
       "descricao": "para Bernardo, ajuda de custo do mês de Março/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2089,7 +2089,7 @@
       "beneficiario": "Pedro",
       "descricao": "para Pedro, ajuda de custo do mês de Março, já com descontos por erros no card.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2099,7 +2099,7 @@
       "beneficiario": "Deborah",
       "descricao": "para Deborah, ajuda de custo do mês de Março/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2109,7 +2109,7 @@
       "beneficiario": "Derek",
       "descricao": "para Derek, ajuda de custo do mês de Março/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2119,7 +2119,7 @@
       "beneficiario": "Dudé",
       "descricao": "para Dudé, ajuda de custo do mês de Março/26.",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "04/03/2026",
@@ -2129,7 +2129,7 @@
       "beneficiario": "LDF",
       "descricao": "para LDF, compra de cabos (promoção).",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2139,7 +2139,7 @@
       "beneficiario": "Rodrigues em espécie",
       "descricao": "para Rodrigues em espécie, aluguel do carro e seguro do Ka.",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2149,7 +2149,7 @@
       "beneficiario": "Derek",
       "descricao": "para Derek, abastecimento da viatura em visita.",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2159,7 +2159,7 @@
       "beneficiario": "",
       "descricao": "referente ao conserto da viatura KA lá no Carrefour.",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2169,7 +2169,7 @@
       "beneficiario": "o melhor envio",
       "descricao": "para o melhor envio, envio de material CA para Ednezer.",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2179,7 +2179,7 @@
       "beneficiario": "Melhor envio",
       "descricao": "para Melhor envio, Envio de material CA para Fortunato.",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2189,7 +2189,7 @@
       "beneficiario": "Ana Maria Tarjino",
       "descricao": "Trt Ana Maria Tarjino",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2199,7 +2199,7 @@
       "beneficiario": "Moacir Pedro",
       "descricao": "Trt Moacir Pedro",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "05/03/2026",
@@ -2209,7 +2209,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação da cliente Claudia Marisa Siqueira Lima da Silva.",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "06/03/2026",
@@ -2219,7 +2219,7 @@
       "beneficiario": "Vivo",
       "descricao": "para Vivo, internet secundária do prédio",
       "categoria": "Internet",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "06/03/2026",
@@ -2229,7 +2229,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, estorno da venda do cliente NILTON QUADRO",
       "categoria": "Estorno",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "06/03/2026",
@@ -2239,7 +2239,7 @@
       "beneficiario": "",
       "descricao": "referente a parcela do financiamento do cliente Lucivaldo Guedes da Silva, instalação sem plaquinha",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "06/03/2026",
@@ -2249,7 +2249,7 @@
       "beneficiario": "Francisco Magnum",
       "descricao": "Trt Francisco Magnum",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "06/03/2026",
@@ -2259,7 +2259,7 @@
       "beneficiario": "Flavio de Almeida",
       "descricao": "Trt Flavio de Almeida",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "09/03/2026",
@@ -2269,7 +2269,7 @@
       "beneficiario": "",
       "descricao": "referente ao imposto do pró labore",
       "categoria": "Impostos",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "09/03/2026",
@@ -2279,7 +2279,7 @@
       "beneficiario": "",
       "descricao": "referente ao imposto do simples nacional do mês de Fevereiro/26",
       "categoria": "Impostos",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "09/03/2026",
@@ -2289,7 +2289,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, compra de material CA",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "09/03/2026",
@@ -2299,7 +2299,7 @@
       "beneficiario": "",
       "descricao": "referente a compra de material CA na monte sinai",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "09/03/2026",
@@ -2309,7 +2309,7 @@
       "beneficiario": "Paulo Roberto",
       "descricao": "Trt Paulo Roberto",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "09/03/2026",
@@ -2319,7 +2319,7 @@
       "beneficiario": "Marcio Felix",
       "descricao": "Trt Marcio Felix",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "10/03/2026",
@@ -2329,7 +2329,7 @@
       "beneficiario": "",
       "descricao": "referente ao boleto da cliente VITORIA SANDRA ARAUJO DE MIRANDA",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "10/03/2026",
@@ -2339,7 +2339,7 @@
       "beneficiario": "",
       "descricao": "referente a quitação do Ipva do gol",
       "categoria": "Impostos",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "10/03/2026",
@@ -2349,7 +2349,7 @@
       "beneficiario": "Fotus",
       "descricao": "para Fotus, material da cliente MARICELIA DIAS DE ARAUJO",
       "categoria": "Material FV",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "10/03/2026",
@@ -2359,7 +2359,7 @@
       "beneficiario": "",
       "descricao": "referente a conta de energia da cliente MARIA SUZANETE DAS CHAGAS, não abatimento da beneficiária",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "10/03/2026",
@@ -2369,7 +2369,7 @@
       "beneficiario": "",
       "descricao": "referente a conta de energia do cliente JAMACI DIRLEI DA SILVA",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "11/03/2026",
@@ -2379,7 +2379,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação do cliente MARCOS TINDOR DE SOUZA",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "11/03/2026",
@@ -2389,7 +2389,7 @@
       "beneficiario": "Ldf",
       "descricao": "para Ldf, material CA complementar",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "11/03/2026",
@@ -2399,7 +2399,7 @@
       "beneficiario": "",
       "descricao": "referente ao boleto do cliente JANDERSON SOARES GOMES",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "11/03/2026",
@@ -2409,7 +2409,7 @@
       "beneficiario": "Andrey",
       "descricao": "para Andrey, pagamento das contas do cliente",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "11/03/2026",
@@ -2419,7 +2419,7 @@
       "beneficiario": "Fotus",
       "descricao": "para Fotus, material do cliente GEORGE AKIRA GANCE",
       "categoria": "Material FV",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "11/03/2026",
@@ -2429,7 +2429,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação da cliente JANICLEIA FERREIRA DA ROCHA SOARES",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "11/03/2026",
@@ -2439,7 +2439,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, compra de CA para instalação do nosso sistema",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "12/03/2026",
@@ -2449,7 +2449,7 @@
       "beneficiario": "Rodrigues",
       "descricao": "em espécie para Rodrigues, manutenções do prédio",
       "categoria": "Manutenção",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "12/03/2026",
@@ -2459,7 +2459,7 @@
       "beneficiario": "",
       "descricao": "em espécie, ajuda de custo dos sócios de Abril/26",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "12/03/2026",
@@ -2469,7 +2469,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, instalações de FRANCISCO CANINDE SILVA DA CRUZ, JAQUELINE BARBOSA DE LIMA, ANA MARIA TARJINO DE AZEVEDO, EDSON ALVES DA ROCHA, RAFAELA FREIRE FERNANDES, ALESSANDRO FLORIANO DOS SANTOS, FRANCISCO MAGNUM DA SILVA, SILARA JASIELLE DA SILVA, RODRIGO XAVIER DE MORAIS, TARCIZO HENRIQUES PESSOA, ERICK NOBRE DANTAS ROCHA E LUCIANO DA COSTA RODRIGUES",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "12/03/2026",
@@ -2479,7 +2479,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, manutenções e reconexões de monitoramento",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "12/03/2026",
@@ -2489,7 +2489,7 @@
       "beneficiario": "Fortunato",
       "descricao": "para Fortunato, instalação do cliente JOSE PAULO DA SILVA NETO",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "12/03/2026",
@@ -2499,7 +2499,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, deslocamentos realizados hoje",
       "categoria": "Frete",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2509,7 +2509,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente JEFFERSON DAS CHAGAS DE LIMA",
       "categoria": "Material FV",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2519,7 +2519,7 @@
       "beneficiario": "Hyasmin",
       "descricao": "para Hyasmin, comissões de REGINALDO PAULINO DA SILVA E RICARDO MIRANDA DA SILVA",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2529,7 +2529,7 @@
       "beneficiario": "Bernardo",
       "descricao": "para Bernardo, comissão de JEFFERSON DAS CHAGAS DE LIMA",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2539,7 +2539,7 @@
       "beneficiario": "Rafael",
       "descricao": "para Rafael, comissão de JOSE RODRIGUES SOBRINHO",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2549,7 +2549,7 @@
       "beneficiario": "Pedro",
       "descricao": "para Pedro, comissão de MARICELIA DIAS DE ARAUJO",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2559,7 +2559,7 @@
       "beneficiario": "Fabinho",
       "descricao": "para Fabinho, instalação da cliente MARCIA MARIA BARBOSA DA SILVA JANUARIO",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2569,7 +2569,7 @@
       "beneficiario": "Fabinho",
       "descricao": "para Fabinho, instalação da cliente OLINDINA SILVA PEREIRA",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2579,7 +2579,7 @@
       "beneficiario": "Fabinho",
       "descricao": "para Fabinho, instalação da cliente ADERILDA MARTINS DE ALMEIDA",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2589,7 +2589,7 @@
       "beneficiario": "Dudé",
       "descricao": "para Dudé, comissão de JOSELY FERNANDES DE SOUZA",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2599,7 +2599,7 @@
       "beneficiario": "Anna Luiza",
       "descricao": "Trt Anna Luiza",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "13/03/2026",
@@ -2609,7 +2609,7 @@
       "beneficiario": "Deborah",
       "descricao": "para Deborah, comissões de GILVANIA EVANGELISTA DA SILVA FERREIRA, FRANCISCO MAGNUM DA SILVA E LO RHUAMA TRINDADE FERREIRA LEITE",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "16/03/2026",
@@ -2619,7 +2619,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, instalações de ROSIANE DE SOUZA GOMES, JOÃO BATISTA PINHEIRO DE OLIVEIRA, ELLISON TAVARES DE OLIVEIRA ROCHA, MARIA SUELY DA SILVA, MARIA ZELIA DA SILVA E CONFIANCE ENERGY",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "16/03/2026",
@@ -2629,7 +2629,7 @@
       "beneficiario": "Graziella Bezerra",
       "descricao": "Trt Graziella Bezerra",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2639,7 +2639,7 @@
       "beneficiario": "",
       "descricao": "referente as contas de energia da cliente MARIA LUCIENE DA SILVA MEDEIROS, erro do vendedor Pedro",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2649,7 +2649,7 @@
       "beneficiario": "",
       "descricao": "abastecimento da viatura",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2659,7 +2659,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente FELIPE BALTAZAR DA SILVA",
       "categoria": "Material FV",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2669,7 +2669,7 @@
       "beneficiario": "Rodrigues em espécie",
       "descricao": "para Rodrigues em espécie, limpeza dos matos, reparo na caixa d'água e licenciamento do gol",
       "categoria": "Prédio",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2679,7 +2679,7 @@
       "beneficiario": "Rafael",
       "descricao": "em espécie para Rafael, monitoramentos feitos por Ludgero",
       "categoria": "Manutenção",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2689,7 +2689,7 @@
       "beneficiario": "Andrey",
       "descricao": "para Andrey, custos com o externo",
       "categoria": "Marketing",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2699,7 +2699,7 @@
       "beneficiario": "Ednezer",
       "descricao": "para Ednezer, instalação de JOAO ENEAS BEZERRA NETO",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2709,7 +2709,7 @@
       "beneficiario": "o melhor envio",
       "descricao": "para o melhor envio, envio de material para Pau dos Ferros",
       "categoria": "Frete",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2719,7 +2719,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, deslocamento de Santa Cruz",
       "categoria": "Frete",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2729,7 +2729,7 @@
       "beneficiario": "Force Line",
       "descricao": "para Force Line, material CA complementar",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2739,7 +2739,7 @@
       "beneficiario": "Ldf",
       "descricao": "para Ldf, material CA complementar",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2749,7 +2749,7 @@
       "beneficiario": "Caicó",
       "descricao": "referente ao envio de material para Caicó",
       "categoria": "Frete",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2759,7 +2759,7 @@
       "beneficiario": "Melhor envio",
       "descricao": "para Melhor envio, envio de material para Pau dos Ferros",
       "categoria": "Frete",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2769,7 +2769,7 @@
       "beneficiario": "Andrey",
       "descricao": "para Andrey, gastos com o externo",
       "categoria": "Marketing",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2779,7 +2779,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material do cliente EDUARDO HENRIQUE DA SILVA ARANHA",
       "categoria": "Material FV",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2789,7 +2789,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação da cliente ANA CARLA FARIAS DE OLIVEIRA SANTOS",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2799,7 +2799,7 @@
       "beneficiario": "Ldf",
       "descricao": "para Ldf, material Ca complementar",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2809,7 +2809,7 @@
       "beneficiario": "Dantas",
       "descricao": "para Dantas, material CA complementar",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2819,7 +2819,7 @@
       "beneficiario": "Rodrigues",
       "descricao": "em espécie para Rodrigues, materiais para o prédio",
       "categoria": "Prédio",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2829,7 +2829,7 @@
       "beneficiario": "Bernardo",
       "descricao": "em espécie para Bernardo, adiantamento de ajuda de custo",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2839,7 +2839,7 @@
       "beneficiario": "Andrey",
       "descricao": "Reembolso de R$20,00 para Andrey, abastecimento",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2849,7 +2849,7 @@
       "beneficiario": "Solfacil",
       "descricao": "para Solfacil, material da cliente POLLYANA SOARES RODRIGUES, erro da Solfacil que pagou pra gente",
       "categoria": "Material FV",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2859,7 +2859,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, deslocamentos realizados ontem",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2869,7 +2869,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, ajudante do deslocamento",
       "categoria": "Mobilidade",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2879,7 +2879,7 @@
       "beneficiario": "",
       "descricao": "referente a segurança do prédio",
       "categoria": "Prédio",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2889,7 +2889,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, comissões de FELIPE BALTAZAR DA SILVA E EDUARDO HENRIQUE DA SILVA ARANHA",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2899,7 +2899,7 @@
       "beneficiario": "Alisson",
       "descricao": "para Alisson, comissão de CAIO SERGIO MOURA DA SILVA",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2909,7 +2909,7 @@
       "beneficiario": "Rodrigues",
       "descricao": "para Rodrigues, comissão de GENILDO LUIZ DA NOBREGA",
       "categoria": "Comissões",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2919,7 +2919,7 @@
       "beneficiario": "Rodrigues em espécie",
       "descricao": "para Rodrigues em espécie, limpeza do prédio, fica R$30,00 dentro dele",
       "categoria": "Prédio",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2929,7 +2929,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, instalação do cliente RAIMUNDO NONATO DA SILVA",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2939,7 +2939,7 @@
       "beneficiario": "",
       "descricao": "referente ao aluguel do prédio do mês de Março/26",
       "categoria": "Aluguel",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2949,7 +2949,7 @@
       "beneficiario": "Ldf",
       "descricao": "para Ldf, material CA complementar",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2959,7 +2959,7 @@
       "beneficiario": "Marcílio",
       "descricao": "para Marcílio, instalações de LAURINETE ALVES DE SOUZA, ANNA LUIZA ALVES JALES, Moacir Pedro Ribeiro, DAMIÃO PEDRO DE OLIVEIRA, ERLANE MAYARA BERTÃO LIMA, JOÃO MARIA DE MACEDO, PAULO FERREIRA DE SOUSA, MARIA MAGNA SANTOS DE ARAUJO, Waldenice Maria Cardoso Matoso e DIEGO SOARES DE LIMA",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2969,7 +2969,7 @@
       "beneficiario": "Nildo",
       "descricao": "para Nildo, manutenção no sistema de Marcos Tindor",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2979,7 +2979,7 @@
       "beneficiario": "",
       "descricao": "referente ao programa de estagiários",
       "categoria": "Pessoal",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2989,7 +2989,7 @@
       "beneficiario": "Antunes",
       "descricao": "para Antunes, reembolso da viagem de Rafael",
       "categoria": "Marketing",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -2999,7 +2999,7 @@
       "beneficiario": "Eletrocenter",
       "descricao": "para Eletrocenter, material CA complementar de Caicó",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3009,7 +3009,7 @@
       "beneficiario": "Fabinho",
       "descricao": "para Fabinho, instalação da cliente HYLONA PEREIRA GOMES CAETANO",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3019,7 +3019,7 @@
       "beneficiario": "Fabinho",
       "descricao": "para Fabinho, instalação do cliente KELITON DE ANDRADE ALVES",
       "categoria": "Instalações",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3029,7 +3029,7 @@
       "beneficiario": "",
       "descricao": "referente a conta de energia do cliente DEYVID HENRIQUE DOS SANTOS, erro na lista de compensação",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3039,7 +3039,7 @@
       "beneficiario": "",
       "descricao": "referente ao boleto do financiamento de ALZENIRA MARIA DOS SANTOS GOMES, projeto ainda não conectado por problema no padrão, aparentemente foi acordado no momento da venda",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3049,7 +3049,7 @@
       "beneficiario": "",
       "descricao": "referente ao boleto do cliente ALCIVANIO FERREIRA DE OLIVEIRA, projeto ainda não conectado por problema no padrão",
       "categoria": "Fumo",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3059,7 +3059,7 @@
       "beneficiario": "",
       "descricao": "eletrodutos monte Sinai",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3069,7 +3069,7 @@
       "beneficiario": "Eletrofios",
       "descricao": "para Eletrofios, material CA complementar Pau dos Ferros",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3079,7 +3079,7 @@
       "beneficiario": "a cliente ANNA LUIZA ALVES JALES",
       "descricao": "Devolução de R$742,60 para a cliente ANNA LUIZA ALVES JALES, acordado no momento da venda",
       "categoria": "Estorno",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3089,7 +3089,7 @@
       "beneficiario": "",
       "descricao": "referente a conta de energia do prédio de Março/26",
       "categoria": "Energia",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3099,7 +3099,7 @@
       "beneficiario": "Rodrigues",
       "descricao": "em espécie para Rodrigues, limpeza da caixa d'água e a limpeza do prédio",
       "categoria": "Prédio",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3109,7 +3109,7 @@
       "beneficiario": "Rodrigues",
       "descricao": "em espécie para Rodrigues, 50 que estava pendente, 20 para Dudé e compra do chip pra Comfio",
       "categoria": "Prédio",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3119,7 +3119,7 @@
       "beneficiario": "Victor Hugo",
       "descricao": "para Victor Hugo, responsável técnico no CFT",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3129,7 +3129,7 @@
       "beneficiario": "Felipe",
       "descricao": "para Felipe, patrocínio",
       "categoria": "Marketing",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3139,7 +3139,7 @@
       "beneficiario": "",
       "descricao": "referente a compra de 50 plaquinhas de advertência",
       "categoria": "Material CA",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3149,7 +3149,7 @@
       "beneficiario": "Pollyana Soares",
       "descricao": "Trt Pollyana Soares",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3159,7 +3159,7 @@
       "beneficiario": "Maria Damiana",
       "descricao": "Trt Maria Damiana",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3169,7 +3169,7 @@
       "beneficiario": "Jose Rodrigues",
       "descricao": "Trt Jose Rodrigues",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3179,7 +3179,7 @@
       "beneficiario": "Joao Batista Pinheiro",
       "descricao": "Trt Joao Batista Pinheiro",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3189,7 +3189,7 @@
       "beneficiario": "Marcos Tindor",
       "descricao": "Trt Marcos Tindor",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3199,7 +3199,7 @@
       "beneficiario": "Jose Paulo",
       "descricao": "Trt Jose Paulo",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3209,7 +3209,7 @@
       "beneficiario": "José Valtenberg",
       "descricao": "Trt José Valtenberg",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3219,7 +3219,7 @@
       "beneficiario": "Lo Rhuama",
       "descricao": "Trt Lo Rhuama",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     },
     {
       "data": "26/03/2026",
@@ -3229,7 +3229,7 @@
       "beneficiario": "Eduardo Henrique",
       "descricao": "Trt Eduardo Henrique",
       "categoria": "TRT",
-      "mes": "Sun Mar 01 2026 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+      "mes": "03/2026"
     }
   ],
   "categorias": [
