@@ -720,7 +720,7 @@ tbody tr:last-child td{border-bottom:none;}
   // ── COMPARE MESES CHART ──────────────────────────────
   function renderCompareChart(catFilter){
     var labels = _meses.map(fmtMes);
-    var values = labels.map(function(m){
+    var values = _meses.map(function(m){
       return _allGastos
         .filter(function(g){ return g.mes===m && (catFilter==='__all__'||g.categoria===catFilter); })
         .reduce(function(s,g){return s+g.valor;},0);
