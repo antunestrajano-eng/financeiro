@@ -630,7 +630,16 @@ tbody tr:last-child td{border-bottom:none;}
 
     // Populate month select
     var sel=document.getElementById('monthSelect');
-    _meses.forEach(function(m){ var o=document.createElement('option');o.value=m;o.textContent=m;sel.appendChild(o); });
+    var MESES_NOMES = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
+    function fmtMes(m) {
+      // m = "MM/YYYY" → "Março/2026"
+      if (!m) return m;
+      var p = m.split('/');
+      if (p.length !== 2) return m;
+      var idx = parseInt(p[0], 10) - 1;
+      return (MESES_NOMES[idx] || p[0]) + '/' + p[1];
+    }
+    _meses.forEach(function(m){ var o=document.createElement('option');o.value=m;o.textContent=fmtMes(m);sel.appendChild(o); });
 
     // Populate category compare select
     var cats={};
@@ -767,7 +776,7 @@ tbody tr:last-child td{border-bottom:none;}
 
   // ── COMPARE MESES CHART ──────────────────────────────
   function renderCompareChart(catFilter){
-    var labels = _meses;
+    var labels = _meses.map(fmtMes);
     var values = labels.map(function(m){
       return _allGastos
         .filter(function(g){ return g.mes===m && (catFilter==='__all__'||g.categoria===catFilter); })
