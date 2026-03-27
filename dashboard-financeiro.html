@@ -230,6 +230,15 @@ tbody tr:last-child td{border-bottom:none;}
 .fsel:focus,.fsel:hover{border-color:var(--gold);}
 .fsel option{background:#101830;color:#eef1ff;}
 
+.fsearch {
+  background: var(--panel2);
+  border: 1px solid var(--border); border-radius: 8px;
+  color: var(--text); font-family: 'Inter', sans-serif; font-size: 12px;
+  padding: 7px 12px; outline: none; transition: border-color .2s;
+  min-width: 200px;
+}
+.fsearch:focus { border-color: var(--gold); }
+
 /* ── LOADING / ERRO ── */
 .loading-screen{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:40vh;gap:16px;color:var(--muted);}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -355,6 +364,7 @@ tbody tr:last-child td{border-bottom:none;}
   /* ── FILTROS ── */
   .filter-bar{gap:10px;flex-wrap:wrap;}
   .fsel{font-size:13px;padding:10px 32px 10px 12px;min-height:44px;-webkit-tap-highlight-color:transparent;}
+  .fsearch{font-size:13px;padding:10px 12px;min-height:44px;-webkit-tap-highlight-color:transparent;width:100%;}
 
   /* ── CARD ── */
   .card-head{padding:16px 16px 0;}
@@ -501,6 +511,8 @@ tbody tr:last-child td{border-bottom:none;}
       <div class="card-head"><div class="card-title">📋 Histórico de Gastos</div></div>
       <div class="card-body">
         <div class="filter-bar">
+          <label>Pesquisar:</label>
+          <input type="text" class="fsearch" id="fSearch" placeholder="Nome ou descrição…">
           <label>Categoria:</label>
           <select class="fsel" id="fCat"><option value="">Todas</option></select>
           <label>Tipo:</label>
@@ -870,11 +882,16 @@ tbody tr:last-child td{border-bottom:none;}
       fTipo.innerHTML+='<option value="'+escHtml(t)+'"'+(t===pt?' selected':'')+'>'+escHtml(t)+'</option>';
     });
     function apply(){
-      var fc=fCat.value, ft=fTipo.value;
-      var f=gastos.filter(function(g){return(!fc||g.categoria===fc)&&(!ft||g.tipo===ft);});
+      var fc=fCat.value, ft=fTipo.value, fs=document.getElementById('fSearch').value.toLowerCase();
+      var f=gastos.filter(function(g){
+        var matchCat = !fc || g.categoria === fc;
+        var matchTipo = !ft || g.tipo === ft;
+        var matchSearch = !fs || (g.beneficiario||'').toLowerCase().indexOf(fs) >= 0 || (g.descricao||'').toLowerCase().indexOf(fs) >= 0;
+        return matchCat && matchTipo && matchSearch;
+      });
       drawRows(f);
     }
-    fCat.onchange=apply; fTipo.onchange=apply; apply();
+    fCat.onchange=apply; fTipo.onchange=apply; document.getElementById('fSearch').oninput=apply; apply();
   }
 
   function drawRows(gastos){
