@@ -1,9 +1,9 @@
 {
-  "geradoEm": "26/03/2026 16:11",
+  "geradoEm": "31/03/2026 21:01",
   "gastos": [
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 09:16:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:16:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 10465,
       "beneficiario": "Marcílio",
@@ -13,7 +13,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 09:36:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:36:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6760,
       "beneficiario": "LDF",
@@ -23,7 +23,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 09:46:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:46:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 134.45,
       "beneficiario": "Caern",
@@ -33,7 +33,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 12:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 800,
       "beneficiario": "Antunes",
@@ -43,7 +43,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 14:24:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:24:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 479.74,
       "beneficiario": "",
@@ -53,7 +53,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 14:27:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:27:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 241.38,
       "beneficiario": "",
@@ -63,7 +63,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 16:08:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:08:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 200,
       "beneficiario": "Ludgero",
@@ -73,7 +73,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 16:59:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:59:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3350,
       "beneficiario": "Peu",
@@ -83,7 +83,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:10:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:10:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Fabio Fernandes",
@@ -93,7 +93,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:10:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:10:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Jaqueline Barbosa",
@@ -103,7 +103,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:11:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:11:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Victor Hugo Lopes",
@@ -113,7 +113,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:11:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:11:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Edson Alves",
@@ -123,7 +123,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Mayque Melo",
@@ -133,7 +133,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Marcia Maria",
@@ -143,7 +143,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:13:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:13:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Severino Maciel",
@@ -153,7 +153,7 @@
     },
     {
       "data": "02/02/2026",
-      "hora": "Sat Dec 30 1899 17:46:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:46:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 335.72,
       "beneficiario": "",
@@ -163,7 +163,7 @@
     },
     {
       "data": "03/02/2026",
-      "hora": "Sat Dec 30 1899 13:57:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:57:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 84.99,
       "beneficiario": "Brisanet",
@@ -173,7 +173,7 @@
     },
     {
       "data": "03/02/2026",
-      "hora": "Sat Dec 30 1899 14:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 9678.09,
       "beneficiario": "Fotus",
@@ -183,7 +183,7 @@
     },
     {
       "data": "03/02/2026",
-      "hora": "Sat Dec 30 1899 14:49:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:49:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 800,
       "beneficiario": "Andrey advogado",
@@ -193,7 +193,7 @@
     },
     {
       "data": "03/02/2026",
-      "hora": "Sat Dec 30 1899 15:13:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:13:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 12882.9,
       "beneficiario": "Andrey",
@@ -203,7 +203,7 @@
     },
     {
       "data": "04/02/2026",
-      "hora": "Sat Dec 30 1899 07:39:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 07:39:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 19008.13,
       "beneficiario": "",
@@ -213,7 +213,7 @@
     },
     {
       "data": "04/02/2026",
-      "hora": "Sat Dec 30 1899 09:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 217.98,
       "beneficiario": "obra de MARY CINTHIA LOPES GALVAO",
@@ -223,7 +223,7 @@
     },
     {
       "data": "04/02/2026",
-      "hora": "Sat Dec 30 1899 10:45:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:45:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3847.5,
       "beneficiario": "Solfacil",
@@ -233,7 +233,7 @@
     },
     {
       "data": "04/02/2026",
-      "hora": "Sat Dec 30 1899 15:11:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:11:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 118.43,
       "beneficiario": "melhor envio",
@@ -243,7 +243,7 @@
     },
     {
       "data": "04/02/2026",
-      "hora": "Sat Dec 30 1899 15:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Francisco Caninde",
@@ -253,7 +253,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 09:45:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:45:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 680,
       "beneficiario": "Nildo",
@@ -263,7 +263,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 10:19:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:19:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Erivaldo Pinheiro",
@@ -273,7 +273,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 10:50:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:50:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Pedro em espécie",
@@ -283,7 +283,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 10:50:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:50:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Bernardo em espécie",
@@ -293,7 +293,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 10:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Derek em espécie",
@@ -303,7 +303,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 10:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Dudé",
@@ -313,7 +313,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 10:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Hyasmin em espécie",
@@ -323,7 +323,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 10:58:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:58:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1100,
       "beneficiario": "Rodrigues",
@@ -333,7 +333,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 13:17:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:17:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Ingrid em espécie",
@@ -343,7 +343,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 14:22:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:22:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 378.68,
       "beneficiario": "",
@@ -353,7 +353,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 16:45:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:45:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 5817.78,
       "beneficiario": "Ednezer",
@@ -363,7 +363,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 17:08:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:08:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1055,
       "beneficiario": "Fortunato",
@@ -373,7 +373,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 17:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 7707.03,
       "beneficiario": "Solfacil",
@@ -383,7 +383,7 @@
     },
     {
       "data": "05/02/2026",
-      "hora": "Sat Dec 30 1899 17:15:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:15:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1380,
       "beneficiario": "Nildo",
@@ -393,7 +393,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 11:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 351.45,
       "beneficiario": "LDF",
@@ -403,7 +403,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 15:30:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:30:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 10550,
       "beneficiario": "Fotus",
@@ -413,7 +413,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 15:59:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:59:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1774,
       "beneficiario": "Leonardo instalador",
@@ -423,7 +423,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 16:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1090,
       "beneficiario": "Elifabio instalador",
@@ -433,7 +433,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 16:15:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:15:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1645,
       "beneficiario": "Leonardo instalador",
@@ -443,7 +443,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 16:18:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:18:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Francisca das Chagas",
@@ -453,7 +453,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 16:19:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:19:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Marivania Gomes",
@@ -463,7 +463,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 17:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Jessica Rayane",
@@ -473,7 +473,7 @@
     },
     {
       "data": "06/02/2026",
-      "hora": "Sat Dec 30 1899 17:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Igor de Melo",
@@ -483,7 +483,7 @@
     },
     {
       "data": "07/02/2026",
-      "hora": "Sat Dec 30 1899 17:10:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:10:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 102.91,
       "beneficiario": "Vivo",
@@ -493,7 +493,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 09:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 770,
       "beneficiario": "Nildo",
@@ -503,7 +503,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 09:23:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:23:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1360,
       "beneficiario": "",
@@ -513,7 +513,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 14:25:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:25:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 8986.37,
       "beneficiario": "Solfacil",
@@ -523,7 +523,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 14:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 680,
       "beneficiario": "",
@@ -533,7 +533,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 15:02:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:02:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 398.75,
       "beneficiario": "prefeitura",
@@ -543,7 +543,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 16:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 522.41,
       "beneficiario": "",
@@ -553,7 +553,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 17:43:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:43:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Silara Jasielle",
@@ -563,7 +563,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 17:43:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:43:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Tarcizo Henriques",
@@ -573,7 +573,7 @@
     },
     {
       "data": "09/02/2026",
-      "hora": "Sat Dec 30 1899 17:44:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:44:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Edybetson Fernandes",
@@ -583,7 +583,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 10:50:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:50:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 281.31,
       "beneficiario": "Jucern",
@@ -593,7 +593,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 11:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 8580.3,
       "beneficiario": "Solfacil",
@@ -603,7 +603,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 12:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 320,
       "beneficiario": "Antunes",
@@ -613,7 +613,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 14:50:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:50:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 16774.81,
       "beneficiario": "Solfacil",
@@ -623,7 +623,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 16:21:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:21:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 213.65,
       "beneficiario": "",
@@ -633,7 +633,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 16:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Luciano da Costa",
@@ -643,7 +643,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 16:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Francisco Magnum",
@@ -653,7 +653,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 16:54:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:54:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Alessandro Floriano",
@@ -663,7 +663,7 @@
     },
     {
       "data": "10/02/2026",
-      "hora": "Sat Dec 30 1899 16:54:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:54:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Laurinete Alves",
@@ -673,7 +673,7 @@
     },
     {
       "data": "11/02/2026",
-      "hora": "Sat Dec 30 1899 10:35:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:35:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 700,
       "beneficiario": "Nildo",
@@ -683,7 +683,7 @@
     },
     {
       "data": "11/02/2026",
-      "hora": "Sat Dec 30 1899 11:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 400,
       "beneficiario": "Rodrigues em espécie",
@@ -693,7 +693,7 @@
     },
     {
       "data": "11/02/2026",
-      "hora": "Sat Dec 30 1899 15:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Silvaneide Ferreira",
@@ -703,7 +703,7 @@
     },
     {
       "data": "11/02/2026",
-      "hora": "Sat Dec 30 1899 17:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 321.09,
       "beneficiario": "",
@@ -713,7 +713,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 10:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 44728.36,
       "beneficiario": "",
@@ -723,7 +723,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 10:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 8537.05,
       "beneficiario": "Solfacil",
@@ -733,7 +733,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 10:45:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:45:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2900,
       "beneficiario": "Oliveira",
@@ -743,7 +743,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 11:42:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:42:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 7859.45,
       "beneficiario": "Solfacil",
@@ -753,7 +753,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 12:22:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:22:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 546.81,
       "beneficiario": "",
@@ -763,7 +763,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 12:24:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:24:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Lenilson Rodrigo",
@@ -773,7 +773,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 12:25:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:25:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Yasmim Manuella",
@@ -783,7 +783,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 12:25:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:25:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Antonia Alice",
@@ -793,7 +793,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 13:29:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:29:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 525.7,
       "beneficiario": "Eletrofios",
@@ -803,7 +803,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 14:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1109,
       "beneficiario": "Monte Sinai",
@@ -813,7 +813,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 16:50:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:50:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6.56,
       "beneficiario": "melhor envio",
@@ -823,7 +823,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 16:57:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:57:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 40.17,
       "beneficiario": "melhor envio",
@@ -833,7 +833,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 17:34:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:34:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 81.39,
       "beneficiario": "Antunes",
@@ -843,7 +843,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:30:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:30:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Maria Raniele",
@@ -853,7 +853,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:30:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:30:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Olindina Silva",
@@ -863,7 +863,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:31:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:31:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Joao Paulo Tacio",
@@ -873,7 +873,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:31:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:31:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Francisca Fabiana",
@@ -883,7 +883,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:32:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:32:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Firmino Candido",
@@ -893,7 +893,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:32:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:32:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Maria Jozileide",
@@ -903,7 +903,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Franiele Santos",
@@ -913,7 +913,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Evodio Melo",
@@ -923,7 +923,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:37:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:37:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Francisco Antonio de Oliveira",
@@ -933,7 +933,7 @@
     },
     {
       "data": "12/02/2026",
-      "hora": "Sat Dec 30 1899 22:43:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 22:43:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 840,
       "beneficiario": "Nildo",
@@ -943,7 +943,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 11:27:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:27:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 118.43,
       "beneficiario": "o melhor envio",
@@ -953,7 +953,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 13:26:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:26:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 8537.75,
       "beneficiario": "Rafael",
@@ -963,7 +963,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 13:29:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:29:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1774.48,
       "beneficiario": "Alisson",
@@ -973,7 +973,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 13:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 5382.67,
       "beneficiario": "Hyasmin",
@@ -983,7 +983,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 14:06:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:06:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 528.5,
       "beneficiario": "LDF",
@@ -993,7 +993,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 14:09:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:09:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 4010.4,
       "beneficiario": "Derek",
@@ -1003,7 +1003,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 14:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3050.5,
       "beneficiario": "Ingrid",
@@ -1013,7 +1013,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 14:23:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:23:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 371.13,
       "beneficiario": "Dantas",
@@ -1023,7 +1023,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 14:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1831.12,
       "beneficiario": "Forceline",
@@ -1033,7 +1033,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 14:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 46.49,
       "beneficiario": "Florânia",
@@ -1043,7 +1043,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 14:43:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:43:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 951.55,
       "beneficiario": "Pedro",
@@ -1053,7 +1053,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 249.32,
       "beneficiario": "Antunes",
@@ -1063,7 +1063,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 15:22:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:22:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 806.36,
       "beneficiario": "Deborah",
@@ -1073,7 +1073,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 15:46:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:46:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2296.74,
       "beneficiario": "Bernardo",
@@ -1083,7 +1083,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 16:16:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:16:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2825,
       "beneficiario": "",
@@ -1093,7 +1093,7 @@
     },
     {
       "data": "13/02/2026",
-      "hora": "Sat Dec 30 1899 16:26:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:26:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2232.86,
       "beneficiario": "Dudé",
@@ -1103,7 +1103,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:27:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:27:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 24720,
       "beneficiario": "Marcílio",
@@ -1113,7 +1113,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:29:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:29:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 408,
       "beneficiario": "Marcílio",
@@ -1123,7 +1123,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:47:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:47:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 690,
       "beneficiario": "Nildo",
@@ -1133,7 +1133,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Rosimeire Fernandes.",
@@ -1143,7 +1143,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Waldenice Maria",
@@ -1153,7 +1153,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:52:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:52:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Simonele da Silva",
@@ -1163,7 +1163,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Rafaela Freire",
@@ -1173,7 +1173,7 @@
     },
     {
       "data": "15/02/2026",
-      "hora": "Sat Dec 30 1899 18:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Erick Nobre Dantas",
@@ -1183,7 +1183,7 @@
     },
     {
       "data": "18/02/2026",
-      "hora": "Sat Dec 30 1899 13:26:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:26:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 635,
       "beneficiario": "",
@@ -1193,7 +1193,7 @@
     },
     {
       "data": "18/02/2026",
-      "hora": "Sat Dec 30 1899 20:48:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 20:48:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 700,
       "beneficiario": "farda",
@@ -1203,7 +1203,7 @@
     },
     {
       "data": "19/02/2026",
-      "hora": "Sat Dec 30 1899 10:25:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:25:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 4301.5,
       "beneficiario": "Rafael em espécie",
@@ -1213,7 +1213,7 @@
     },
     {
       "data": "19/02/2026",
-      "hora": "Sat Dec 30 1899 14:11:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:11:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 109,
       "beneficiario": "Confix",
@@ -1223,7 +1223,7 @@
     },
     {
       "data": "19/02/2026",
-      "hora": "Sat Dec 30 1899 14:59:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:59:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 646.36,
       "beneficiario": "",
@@ -1233,7 +1233,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 10:02:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:02:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Alcivanio Ferreira",
@@ -1243,7 +1243,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 10:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Janicleia Ferreira",
@@ -1253,7 +1253,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 10:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Maria das Dores",
@@ -1263,7 +1263,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 10:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Keliton De Andrade",
@@ -1273,7 +1273,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 10:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Paulo Umberto",
@@ -1283,7 +1283,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 13:49:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:49:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2450,
       "beneficiario": "Fortunato",
@@ -1293,7 +1293,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 15:26:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:26:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6026.5,
       "beneficiario": "Solfacil",
@@ -1303,7 +1303,7 @@
     },
     {
       "data": "20/02/2026",
-      "hora": "Sat Dec 30 1899 15:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 100,
       "beneficiario": "Alisson",
@@ -1313,7 +1313,7 @@
     },
     {
       "data": "23/02/2026",
-      "hora": "Sat Dec 30 1899 10:24:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:24:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 487.72,
       "beneficiario": "Ldf",
@@ -1323,7 +1323,7 @@
     },
     {
       "data": "23/02/2026",
-      "hora": "Sat Dec 30 1899 10:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 433.25,
       "beneficiario": "Dantas",
@@ -1333,7 +1333,7 @@
     },
     {
       "data": "23/02/2026",
-      "hora": "Sat Dec 30 1899 10:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 700,
       "beneficiario": "Felipe",
@@ -1343,7 +1343,7 @@
     },
     {
       "data": "23/02/2026",
-      "hora": "Sat Dec 30 1899 11:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 350,
       "beneficiario": "Antunes",
@@ -1353,7 +1353,7 @@
     },
     {
       "data": "23/02/2026",
-      "hora": "Sat Dec 30 1899 15:35:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:35:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 559.4,
       "beneficiario": "Monte Sinai",
@@ -1363,7 +1363,7 @@
     },
     {
       "data": "23/02/2026",
-      "hora": "Sat Dec 30 1899 17:20:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:20:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1272.5,
       "beneficiario": "Leonardo instalador",
@@ -1373,7 +1373,7 @@
     },
     {
       "data": "24/02/2026",
-      "hora": "Sat Dec 30 1899 09:30:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:30:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 981.94,
       "beneficiario": "",
@@ -1383,7 +1383,7 @@
     },
     {
       "data": "24/02/2026",
-      "hora": "Sat Dec 30 1899 10:01:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:01:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 220.4,
       "beneficiario": "Alphatronic",
@@ -1393,7 +1393,7 @@
     },
     {
       "data": "24/02/2026",
-      "hora": "Sat Dec 30 1899 11:09:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:09:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 200,
       "beneficiario": "Antunes",
@@ -1403,7 +1403,7 @@
     },
     {
       "data": "24/02/2026",
-      "hora": "Sat Dec 30 1899 13:16:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:16:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 195,
       "beneficiario": "Eletrofios",
@@ -1413,7 +1413,7 @@
     },
     {
       "data": "24/02/2026",
-      "hora": "Sat Dec 30 1899 14:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 500,
       "beneficiario": "Rafael",
@@ -1423,7 +1423,7 @@
     },
     {
       "data": "24/02/2026",
-      "hora": "Sat Dec 30 1899 14:29:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:29:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3700,
       "beneficiario": "Rafael em espécie",
@@ -1433,7 +1433,7 @@
     },
     {
       "data": "25/02/2026",
-      "hora": "Sat Dec 30 1899 10:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 8830,
       "beneficiario": "Marcílio",
@@ -1443,7 +1443,7 @@
     },
     {
       "data": "25/02/2026",
-      "hora": "Sat Dec 30 1899 10:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 240,
       "beneficiario": "Marcílio",
@@ -1453,7 +1453,7 @@
     },
     {
       "data": "25/02/2026",
-      "hora": "Sat Dec 30 1899 10:59:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:59:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 100,
       "beneficiario": "conta da Comfio",
@@ -1463,7 +1463,7 @@
     },
     {
       "data": "25/02/2026",
-      "hora": "Sat Dec 30 1899 12:37:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:37:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6000,
       "beneficiario": "",
@@ -1473,7 +1473,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 10:06:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:06:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Antonia Alice",
@@ -1483,7 +1483,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 10:06:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:06:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Joao Batista Pinheiro",
@@ -1493,7 +1493,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 10:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Maria Zelia",
@@ -1503,7 +1503,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 10:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Jose Raimundo",
@@ -1513,7 +1513,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 10:08:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:08:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Nilza Castilho",
@@ -1523,7 +1523,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 10:08:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:08:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Diego Soares de Lima",
@@ -1533,7 +1533,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 15:00:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:00:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 720,
       "beneficiario": "Nildo",
@@ -1543,7 +1543,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 15:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 102.71,
       "beneficiario": "Solfacil",
@@ -1553,7 +1553,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 16:24:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:24:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3235,
       "beneficiario": "Fortunato",
@@ -1563,7 +1563,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 17:14:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:14:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Rosiane de Souza",
@@ -1573,7 +1573,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 17:15:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:15:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Gabrielle Vitor",
@@ -1583,7 +1583,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 17:15:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:15:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Ana Carla Farias",
@@ -1593,7 +1593,7 @@
     },
     {
       "data": "26/02/2026",
-      "hora": "Sat Dec 30 1899 18:46:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:46:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 220,
       "beneficiario": "Antunes",
@@ -1603,7 +1603,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 10:49:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:49:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6916.26,
       "beneficiario": "Solfacil",
@@ -1613,7 +1613,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 11:25:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:25:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 200,
       "beneficiario": "",
@@ -1623,7 +1623,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:20:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:20:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 9740,
       "beneficiario": "Marcílio",
@@ -1633,7 +1633,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:23:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:23:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 520,
       "beneficiario": "Marcílio",
@@ -1643,7 +1643,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:31:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:31:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1000,
       "beneficiario": "Daniel",
@@ -1653,7 +1653,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:37:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:37:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2300,
       "beneficiario": "Lara",
@@ -1663,7 +1663,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6748.89,
       "beneficiario": "Hyasmin",
@@ -1673,7 +1673,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:47:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:47:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2760,
       "beneficiario": "Jennyfer",
@@ -1683,7 +1683,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1471.96,
       "beneficiario": "Dudé",
@@ -1693,7 +1693,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:56:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:56:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2300,
       "beneficiario": "Ludgero",
@@ -1703,7 +1703,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 13:58:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:58:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6137.31,
       "beneficiario": "Solfacil",
@@ -1713,7 +1713,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 14:30:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:30:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 500,
       "beneficiario": "Victor Hugo",
@@ -1723,7 +1723,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 14:39:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:39:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1727.7,
       "beneficiario": "Bernardo",
@@ -1733,7 +1733,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 14:40:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:40:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3135.91,
       "beneficiario": "Deborah",
@@ -1743,7 +1743,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 15:24:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:24:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6034,
       "beneficiario": "Fotus",
@@ -1753,7 +1753,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 16:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2082.92,
       "beneficiario": "Ingrid",
@@ -1763,7 +1763,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 17:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Francisco Erlandio",
@@ -1773,7 +1773,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 17:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Hylona Pereira",
@@ -1783,7 +1783,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 17:52:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:52:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Erlane Mayara",
@@ -1793,7 +1793,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 17:52:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:52:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Joao Maria de Macedo",
@@ -1803,7 +1803,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 17:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Jose Odenilson",
@@ -1813,7 +1813,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 17:56:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:56:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1838.59,
       "beneficiario": "Pedro",
@@ -1823,7 +1823,7 @@
     },
     {
       "data": "27/02/2026",
-      "hora": "Sat Dec 30 1899 17:58:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:58:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 696.01,
       "beneficiario": "Pedro",
@@ -1833,7 +1833,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 11:15:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:15:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 15436.18,
       "beneficiario": "Andrey",
@@ -1843,7 +1843,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 11:20:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:20:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 43,
       "beneficiario": "Antunes",
@@ -1853,7 +1853,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 12:55:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 12:55:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 720.58,
       "beneficiario": "Dantas",
@@ -1863,7 +1863,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 13:00:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:00:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1321.03,
       "beneficiario": "Ldf",
@@ -1873,7 +1873,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 14:45:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:45:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 5120,
       "beneficiario": "Arthur",
@@ -1883,7 +1883,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 15:59:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:59:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 16837.37,
       "beneficiario": "Solfacil",
@@ -1893,7 +1893,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 16:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 850,
       "beneficiario": "Nildo",
@@ -1903,7 +1903,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 16:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2814.64,
       "beneficiario": "Ednezer",
@@ -1913,7 +1913,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 16:09:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:09:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1191.67,
       "beneficiario": "",
@@ -1923,7 +1923,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 16:15:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:15:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Transferência",
       "valor": 770,
       "beneficiario": "Antunes",
@@ -1933,7 +1933,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 16:26:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:26:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 335.72,
       "beneficiario": "",
@@ -1943,7 +1943,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 16:34:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:34:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 84.99,
       "beneficiario": "Brisanet",
@@ -1953,7 +1953,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 16:46:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:46:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 800,
       "beneficiario": "Andrey advogado",
@@ -1963,7 +1963,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 17:22:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:22:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 265.03,
       "beneficiario": "Derek",
@@ -1973,7 +1973,7 @@
     },
     {
       "data": "02/03/2026",
-      "hora": "Sat Dec 30 1899 18:19:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:19:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 400,
       "beneficiario": "Antunes",
@@ -1983,7 +1983,7 @@
     },
     {
       "data": "03/03/2026",
-      "hora": "Sat Dec 30 1899 11:23:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:23:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 134.45,
       "beneficiario": "",
@@ -1993,7 +1993,7 @@
     },
     {
       "data": "03/03/2026",
-      "hora": "Sat Dec 30 1899 13:20:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:20:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3150,
       "beneficiario": "Peu",
@@ -2003,7 +2003,7 @@
     },
     {
       "data": "03/03/2026",
-      "hora": "Sat Dec 30 1899 14:30:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:30:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 450,
       "beneficiario": "Andrey",
@@ -2013,7 +2013,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 08:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 08:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 17304.75,
       "beneficiario": "",
@@ -2023,7 +2023,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 09:54:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:54:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2354,
       "beneficiario": "",
@@ -2033,7 +2033,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 09:56:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:56:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1050,
       "beneficiario": "Fabinho instalador",
@@ -2043,7 +2043,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 11:05:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:05:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 187.05,
       "beneficiario": "Eletromega",
@@ -2053,7 +2053,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 15:42:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:42:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Ingrid",
@@ -2063,7 +2063,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 15:46:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:46:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Hyasmin",
@@ -2073,7 +2073,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 16:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Bernardo",
@@ -2083,7 +2083,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 16:08:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:08:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1179.38,
       "beneficiario": "Pedro",
@@ -2093,7 +2093,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 16:13:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:13:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Deborah",
@@ -2103,7 +2103,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 16:30:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:30:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "Derek",
@@ -2113,7 +2113,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 18:56:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 18:56:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1223.57,
       "beneficiario": "Dudé",
@@ -2123,7 +2123,7 @@
     },
     {
       "data": "04/03/2026",
-      "hora": "Sat Dec 30 1899 21:15:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 21:15:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 4484.15,
       "beneficiario": "LDF",
@@ -2133,7 +2133,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 13:21:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:21:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2000,
       "beneficiario": "Rodrigues em espécie",
@@ -2143,7 +2143,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 13:51:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:51:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 264.23,
       "beneficiario": "Derek",
@@ -2153,7 +2153,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 16:16:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:16:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1500,
       "beneficiario": "",
@@ -2163,7 +2163,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 16:27:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:27:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 44.59,
       "beneficiario": "o melhor envio",
@@ -2173,7 +2173,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 16:36:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:36:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 40.58,
       "beneficiario": "Melhor envio",
@@ -2183,7 +2183,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 17:49:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:49:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Ana Maria Tarjino",
@@ -2193,7 +2193,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 17:50:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:50:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Moacir Pedro",
@@ -2203,7 +2203,7 @@
     },
     {
       "data": "05/03/2026",
-      "hora": "Sat Dec 30 1899 17:54:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:54:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 930,
       "beneficiario": "Nildo",
@@ -2213,7 +2213,7 @@
     },
     {
       "data": "06/03/2026",
-      "hora": "Sat Dec 30 1899 10:19:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:19:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 102.91,
       "beneficiario": "Vivo",
@@ -2223,7 +2223,7 @@
     },
     {
       "data": "06/03/2026",
-      "hora": "Sat Dec 30 1899 10:43:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:43:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 19305.81,
       "beneficiario": "Solfacil",
@@ -2233,7 +2233,7 @@
     },
     {
       "data": "06/03/2026",
-      "hora": "Sat Dec 30 1899 10:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 379.57,
       "beneficiario": "",
@@ -2243,7 +2243,7 @@
     },
     {
       "data": "06/03/2026",
-      "hora": "Sat Dec 30 1899 14:47:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:47:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Francisco Magnum",
@@ -2253,7 +2253,7 @@
     },
     {
       "data": "06/03/2026",
-      "hora": "Sat Dec 30 1899 14:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Flavio de Almeida",
@@ -2263,7 +2263,7 @@
     },
     {
       "data": "09/03/2026",
-      "hora": "Sat Dec 30 1899 09:03:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:03:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 534.93,
       "beneficiario": "",
@@ -2273,7 +2273,7 @@
     },
     {
       "data": "09/03/2026",
-      "hora": "Sat Dec 30 1899 09:09:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 09:09:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 45808.6,
       "beneficiario": "",
@@ -2283,7 +2283,7 @@
     },
     {
       "data": "09/03/2026",
-      "hora": "Sat Dec 30 1899 13:22:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:22:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 864.02,
       "beneficiario": "Antunes",
@@ -2293,7 +2293,7 @@
     },
     {
       "data": "09/03/2026",
-      "hora": "Sat Dec 30 1899 15:12:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:12:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 580.4,
       "beneficiario": "",
@@ -2303,7 +2303,7 @@
     },
     {
       "data": "09/03/2026",
-      "hora": "Sat Dec 30 1899 16:48:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:48:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Paulo Roberto",
@@ -2313,7 +2313,7 @@
     },
     {
       "data": "09/03/2026",
-      "hora": "Sat Dec 30 1899 16:49:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:49:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Marcio Felix",
@@ -2323,7 +2323,7 @@
     },
     {
       "data": "10/03/2026",
-      "hora": "Sat Dec 30 1899 10:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1788.13,
       "beneficiario": "",
@@ -2333,7 +2333,7 @@
     },
     {
       "data": "10/03/2026",
-      "hora": "Sat Dec 30 1899 11:18:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:18:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 521.66,
       "beneficiario": "",
@@ -2343,7 +2343,7 @@
     },
     {
       "data": "10/03/2026",
-      "hora": "Sat Dec 30 1899 11:27:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:27:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 21400,
       "beneficiario": "Fotus",
@@ -2353,7 +2353,7 @@
     },
     {
       "data": "10/03/2026",
-      "hora": "Sat Dec 30 1899 15:34:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:34:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 231.44,
       "beneficiario": "",
@@ -2363,7 +2363,7 @@
     },
     {
       "data": "10/03/2026",
-      "hora": "Sat Dec 30 1899 15:44:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:44:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 76.72,
       "beneficiario": "",
@@ -2373,7 +2373,7 @@
     },
     {
       "data": "11/03/2026",
-      "hora": "Sat Dec 30 1899 10:07:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:07:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2500,
       "beneficiario": "Nildo",
@@ -2383,7 +2383,7 @@
     },
     {
       "data": "11/03/2026",
-      "hora": "Sat Dec 30 1899 10:42:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:42:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 704.55,
       "beneficiario": "Ldf",
@@ -2393,7 +2393,7 @@
     },
     {
       "data": "11/03/2026",
-      "hora": "Sat Dec 30 1899 10:59:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 10:59:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 279.21,
       "beneficiario": "",
@@ -2403,7 +2403,7 @@
     },
     {
       "data": "11/03/2026",
-      "hora": "Sat Dec 30 1899 15:24:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:24:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 700,
       "beneficiario": "Andrey",
@@ -2413,7 +2413,7 @@
     },
     {
       "data": "11/03/2026",
-      "hora": "Sat Dec 30 1899 16:32:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:32:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 7650,
       "beneficiario": "Fotus",
@@ -2423,7 +2423,7 @@
     },
     {
       "data": "11/03/2026",
-      "hora": "Sat Dec 30 1899 17:57:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 17:57:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1190,
       "beneficiario": "Nildo",
@@ -2433,7 +2433,7 @@
     },
     {
       "data": "11/03/2026",
-      "hora": "Sat Dec 30 1899 20:57:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 20:57:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 139.54,
       "beneficiario": "Antunes",
@@ -2443,7 +2443,7 @@
     },
     {
       "data": "12/03/2026",
-      "hora": "Sat Dec 30 1899 11:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 240,
       "beneficiario": "Rodrigues",
@@ -2453,7 +2453,7 @@
     },
     {
       "data": "12/03/2026",
-      "hora": "Sat Dec 30 1899 11:37:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 11:37:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2500,
       "beneficiario": "",
@@ -2463,7 +2463,7 @@
     },
     {
       "data": "12/03/2026",
-      "hora": "Sat Dec 30 1899 13:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 14130,
       "beneficiario": "Marcílio",
@@ -2473,7 +2473,7 @@
     },
     {
       "data": "12/03/2026",
-      "hora": "Sat Dec 30 1899 13:36:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:36:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 400,
       "beneficiario": "Marcílio",
@@ -2483,7 +2483,7 @@
     },
     {
       "data": "12/03/2026",
-      "hora": "Sat Dec 30 1899 15:59:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:59:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1140,
       "beneficiario": "Fortunato",
@@ -2493,7 +2493,7 @@
     },
     {
       "data": "12/03/2026",
-      "hora": "Sat Dec 30 1899 19:33:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 19:33:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 340,
       "beneficiario": "Antunes",
@@ -2503,7 +2503,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 13:28:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:28:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 10872.99,
       "beneficiario": "Solfacil",
@@ -2513,7 +2513,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 13:35:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:35:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 4240.45,
       "beneficiario": "Hyasmin",
@@ -2523,7 +2523,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 13:39:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:39:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 543.26,
       "beneficiario": "Bernardo",
@@ -2533,7 +2533,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 13:52:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 13:52:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2440,
       "beneficiario": "Rafael",
@@ -2543,7 +2543,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 14:00:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:00:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2118.63,
       "beneficiario": "Pedro",
@@ -2553,7 +2553,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 14:14:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:14:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 810,
       "beneficiario": "Fabinho",
@@ -2563,7 +2563,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 14:16:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:16:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 730,
       "beneficiario": "Fabinho",
@@ -2573,7 +2573,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 14:19:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:19:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1570,
       "beneficiario": "Fabinho",
@@ -2583,7 +2583,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 14:27:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 14:27:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 464.64,
       "beneficiario": "Dudé",
@@ -2593,7 +2593,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 15:16:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:16:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Anna Luiza",
@@ -2603,7 +2603,7 @@
     },
     {
       "data": "13/03/2026",
-      "hora": "Sat Dec 30 1899 16:26:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 16:26:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 2458.72,
       "beneficiario": "Deborah",
@@ -2613,7 +2613,7 @@
     },
     {
       "data": "16/03/2026",
-      "hora": "Sat Dec 30 1899 08:46:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 08:46:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6300,
       "beneficiario": "Marcílio",
@@ -2623,7 +2623,7 @@
     },
     {
       "data": "16/03/2026",
-      "hora": "Sat Dec 30 1899 08:53:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 08:53:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Graziella Bezerra",
@@ -2633,7 +2633,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 272.32,
       "beneficiario": "",
@@ -2643,7 +2643,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 221.99,
       "beneficiario": "",
@@ -2653,7 +2653,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 7511.67,
       "beneficiario": "Solfacil",
@@ -2663,7 +2663,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 360,
       "beneficiario": "Rodrigues em espécie",
@@ -2673,7 +2673,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 200,
       "beneficiario": "Rafael",
@@ -2683,7 +2683,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 200,
       "beneficiario": "Andrey",
@@ -2693,7 +2693,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1038.33,
       "beneficiario": "Ednezer",
@@ -2703,7 +2703,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 44.27,
       "beneficiario": "o melhor envio",
@@ -2713,7 +2713,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 800,
       "beneficiario": "Antunes",
@@ -2723,7 +2723,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1640.44,
       "beneficiario": "Force Line",
@@ -2733,7 +2733,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 605.54,
       "beneficiario": "Ldf",
@@ -2743,7 +2743,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 47.41,
       "beneficiario": "Caicó",
@@ -2753,7 +2753,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 38.03,
       "beneficiario": "Melhor envio",
@@ -2763,7 +2763,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 240,
       "beneficiario": "Andrey",
@@ -2773,7 +2773,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6951.36,
       "beneficiario": "Solfacil",
@@ -2783,7 +2783,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 800,
       "beneficiario": "Nildo",
@@ -2793,7 +2793,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 648.36,
       "beneficiario": "Ldf",
@@ -2803,7 +2803,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 759.26,
       "beneficiario": "Dantas",
@@ -2813,7 +2813,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 100,
       "beneficiario": "Rodrigues",
@@ -2823,7 +2823,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 150,
       "beneficiario": "Bernardo",
@@ -2833,7 +2833,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 20,
       "beneficiario": "Andrey",
@@ -2843,7 +2843,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 3984.02,
       "beneficiario": "Solfacil",
@@ -2853,7 +2853,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 450,
       "beneficiario": "Antunes",
@@ -2863,7 +2863,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 70,
       "beneficiario": "Antunes",
@@ -2873,7 +2873,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 200,
       "beneficiario": "",
@@ -2883,7 +2883,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1215.53,
       "beneficiario": "Antunes",
@@ -2893,7 +2893,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 7626.25,
       "beneficiario": "Alisson",
@@ -2903,7 +2903,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 684.71,
       "beneficiario": "Rodrigues",
@@ -2913,7 +2913,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 200,
       "beneficiario": "Rodrigues em espécie",
@@ -2923,7 +2923,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 930,
       "beneficiario": "Nildo",
@@ -2933,7 +2933,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 6000,
       "beneficiario": "",
@@ -2943,7 +2943,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 731.6,
       "beneficiario": "Ldf",
@@ -2953,7 +2953,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 10070,
       "beneficiario": "Marcílio",
@@ -2963,7 +2963,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 500,
       "beneficiario": "Nildo",
@@ -2973,7 +2973,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 90,
       "beneficiario": "",
@@ -2983,7 +2983,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Ressarcimento",
       "valor": 288.08,
       "beneficiario": "Antunes",
@@ -2993,7 +2993,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 241.4,
       "beneficiario": "Eletrocenter",
@@ -3003,7 +3003,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1440,
       "beneficiario": "Fabinho",
@@ -3013,7 +3013,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 990,
       "beneficiario": "Fabinho",
@@ -3023,7 +3023,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 116.82,
       "beneficiario": "",
@@ -3033,7 +3033,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 386.27,
       "beneficiario": "",
@@ -3043,7 +3043,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1105.64,
       "beneficiario": "",
@@ -3053,7 +3053,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 814.6,
       "beneficiario": "",
@@ -3063,7 +3063,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 63.8,
       "beneficiario": "Eletrofios",
@@ -3073,7 +3073,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 742.6,
       "beneficiario": "a cliente ANNA LUIZA ALVES JALES",
@@ -3083,7 +3083,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 1195.83,
       "beneficiario": "",
@@ -3093,7 +3093,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 200,
       "beneficiario": "Rodrigues",
@@ -3103,7 +3103,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 100,
       "beneficiario": "Rodrigues",
@@ -3113,7 +3113,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 500,
       "beneficiario": "Victor Hugo",
@@ -3123,7 +3123,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 700,
       "beneficiario": "Felipe",
@@ -3133,7 +3133,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 368.82,
       "beneficiario": "",
@@ -3143,7 +3143,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Pollyana Soares",
@@ -3153,7 +3153,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Maria Damiana",
@@ -3163,7 +3163,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Jose Rodrigues",
@@ -3173,7 +3173,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Joao Batista Pinheiro",
@@ -3183,7 +3183,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Marcos Tindor",
@@ -3193,7 +3193,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Jose Paulo",
@@ -3203,7 +3203,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "José Valtenberg",
@@ -3213,7 +3213,7 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Lo Rhuama",
@@ -3223,11 +3223,531 @@
     },
     {
       "data": "26/03/2026",
-      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Brasilia Standard Time)",
+      "hora": "Sat Dec 30 1899 15:04:00 GMT-0306 (Horário Padrão de Brasília)",
       "tipo": "Pagamento",
       "valor": 68.17,
       "beneficiario": "Eduardo Henrique",
       "descricao": "Trt Eduardo Henrique",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 3166.22,
+      "beneficiario": "Rodrigues",
+      "descricao": "para Rodrigues, comissão de BRUNA CERES SIQUEIRA DE MELO SANTOS, feito pra minha conta e transferido pra ele",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 333,
+      "beneficiario": "Antunes",
+      "descricao": "para Antunes, comissão de JOSE RICARDO XAVIER TEIXEIRA",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 5671.03,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material do cliente MATHEUS RODRIGO OLIVEIRA DOS ANJOS",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2775,
+      "beneficiario": "Leonardo instalador",
+      "descricao": "para Leonardo instalador, instalações de RENATA EVELEM COSTA MEDEIROS E GENICLEIDE MEDEIROS DE ALMEIDA",
+      "categoria": "Instalações",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1857,
+      "beneficiario": "Pedro",
+      "descricao": "para Pedro, comissões de MARIANA PINHEIRO GOIS COSTA E MADSON ADRIANO SOUZA DE LIMA",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 5895.12,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material do cliente PEDRO CLAUDIONOR DE FREITAS NETO",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 6457.58,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material da cliente MARILIA ALINNE SEABRA DE MELO SILVA SOUZA",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 3488.73,
+      "beneficiario": "Deborah",
+      "descricao": "para Deborah, comissões de LEIDIANE FERREIRA DA SILVA, PEDRO CLAUDIONOR DE FREITAS NETO, MARILIA ALINNE SEABRA DE MELO SILVA SOUZA E RODRIGO DE ARAUJO",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2878.71,
+      "beneficiario": "Rafael",
+      "descricao": "para Rafael, comissões de MATHEUS RODRIGO OLIVEIRA DOS ANJOS E WESLLEY ROCHA DA SILVA",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1390,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, instalação da cliente LO RHUAMA TRINDADE FERREIRA LEITE",
+      "categoria": "Instalações",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1155.76,
+      "beneficiario": "Ingrid",
+      "descricao": "para Ingrid, comissões de JANAINA PEREIRA DA SILVA DE PAULA E RITA DE CASSIA MENDES PEREIRA DA SILVA",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 5074.44,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material da cliente ISABELE DAIANE DOS SANTOS CORTEZ",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2849.91,
+      "beneficiario": "Hyasmin",
+      "descricao": "para Hyasmin, comissões de JANAINA REBOUCAS GASPAR DE MELO, LIFIANNY MICHELLE DA SILVA PONTES E KAWAN CESAR RODRIGUES DE SOUZA",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1030.89,
+      "beneficiario": "Antunes",
+      "descricao": "para Antunes, comissão de MARIA CRISTINA DE OLIVEIRA LINS",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 8760,
+      "beneficiario": "Marcílio",
+      "descricao": "para Marcílio, instalações de Flavio de Almeida Barbalho, MARIA RANIELE VASCONCELOS SILVA, LEIDIANE FERREIRA DA SILVA, JOSE FRANCISCO DO NASCIMENTO, JOSE ODENILSON LINS e MARICELIA DIAS DE ARAUJO",
+      "categoria": "Instalações",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 780,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, instalação da FRANCISCO ERLANDIO DA SILVA",
+      "categoria": "Instalações",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 250,
+      "beneficiario": "Marcílio",
+      "descricao": "para Marcílio, assistências realizadas",
+      "categoria": "Instalações",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 700,
+      "beneficiario": "Pedro",
+      "descricao": "para Pedro, 50% restantes das fardas",
+      "categoria": "Fardamento",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 16491.82,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material do cliente ARPLAN ENGENHARIA TERMICA",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 5250,
+      "beneficiario": "TVIN",
+      "descricao": "para TVIN, material do cliente CESAR FRANKLIN SILVA DA CRUZ",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 3645.23,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material do cliente FORLLAN HENRIQUE DA COSTA AQUINO",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1424.31,
+      "beneficiario": "Dudé",
+      "descricao": "para Dudé, comissões de GENIMAR PEREIRA DA SILVA",
+      "categoria": "(sem categoria)",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 77.05,
+      "beneficiario": "",
+      "descricao": "referente a conta de energia do cliente JAMACI DIRLEI DA SILVA, demora na instalação",
+      "categoria": "Fumo",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2730,
+      "beneficiario": "Jennyfer",
+      "descricao": "para Jennyfer, serviços prestados no mês de Março/26 e 18 indicações e dois fechamentos",
+      "categoria": "Pessoal",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Isabele Daiane",
+      "descricao": "Trt Isabele Daiane",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Juliana Fabricio",
+      "descricao": "Trt Juliana Fabricio",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Marilia Alinne",
+      "descricao": "Trt Marilia Alinne",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Kawan Cesar",
+      "descricao": "Trt Kawan Cesar",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Jailton Garcia",
+      "descricao": "Trt Jailton Garcia",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Rafael Rocha",
+      "descricao": "Trt Rafael Rocha",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Weslley Rocha",
+      "descricao": "Trt Weslley Rocha",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2300,
+      "beneficiario": "Ludgero",
+      "descricao": "para Ludgero, serviços prestados no mês de Março/26",
+      "categoria": "Pessoal",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2250,
+      "beneficiario": "Lara",
+      "descricao": "para Lara, serviços prestados no mês de Março/26 e 10 indicações do insta/face",
+      "categoria": "Pessoal",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1000,
+      "beneficiario": "Daniel",
+      "descricao": "para Daniel, serviços prestados no mês de Março/26",
+      "categoria": "Pessoal",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 4380,
+      "beneficiario": "Arthur",
+      "descricao": "para Arthur, serviços prestados no mês de Março/26 e 44 projetos aprovados",
+      "categoria": "Pessoal",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 170.14,
+      "beneficiario": "",
+      "descricao": "referente ao IPVA da viatura KA, primeira parcela",
+      "categoria": "Mobilidade",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 90,
+      "beneficiario": "",
+      "descricao": "referente ao licenciamento do ford ka",
+      "categoria": "Mobilidade",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 25,
+      "beneficiario": "",
+      "descricao": "referente a taxa dos bombeiros do ford ka",
+      "categoria": "Mobilidade",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2089.71,
+      "beneficiario": "Pedro",
+      "descricao": "para Pedro, comissões de JAILTON GARCIA NOGUEIRA E RAFFAEL ROCHA WURSCH",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2950,
+      "beneficiario": "Peu",
+      "descricao": "para Peu, serviços prestados no mês de Março/26 e 16 vendas do tráfego",
+      "categoria": "Pessoal",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1140,
+      "beneficiario": "Fabinho",
+      "descricao": "para Fabinho, instalação da cliente MARIA DAS DORES SILVA",
+      "categoria": "Instalações",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 250,
+      "beneficiario": "Antunes",
+      "descricao": "para Antunes, deslocamentos realizados hoje",
+      "categoria": "Frete",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1818.65,
+      "beneficiario": "",
+      "descricao": "referente a compra do ar condicionado da cliente de Deborah, HELLEN ESLIANE SANTOS DE LIMA, o valor do ar saiu do over",
+      "categoria": "Marketing",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 13247.75,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material do cliente JOAQUIM DE ASSIS URSULA JUNIOR",
+      "categoria": "Material FV",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 645.55,
+      "beneficiario": "Bernardo",
+      "descricao": "para Bernardo, comissão de EDMILSON DOS SANTOS REGIS",
+      "categoria": "Comissões",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Jefferson das Chagas",
+      "descricao": "Trt Jefferson das Chagas",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Genimar Pereira",
+      "descricao": "Trt Genimar Pereira",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Lidianny Michelle",
+      "descricao": "Trt Lidianny Michelle",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Janaina Pereira",
+      "descricao": "Trt Janaina Pereira",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Rita de Cassias",
+      "descricao": "Trt Rita de Cassias",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Pedro Claudionor",
+      "descricao": "Trt Pedro Claudionor",
+      "categoria": "TRT",
+      "mes": "03/2026"
+    },
+    {
+      "data": "31/03/2026",
+      "hora": "Sat Dec 30 1899 20:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Rodrigo de Araujo",
+      "descricao": "Trt Rodrigo de Araujo",
       "categoria": "TRT",
       "mes": "03/2026"
     }
@@ -3235,15 +3755,15 @@
   "categorias": [
     {
       "categoria": "Material FV",
-      "soma": 179097.28999999998
+      "soma": 240830.25999999998
     },
     {
       "categoria": "Instalações",
-      "soma": 136004.47
+      "soma": 152029.47
     },
     {
       "categoria": "Comissões",
-      "soma": 104858.06
+      "soma": 124353.54000000001
     },
     {
       "categoria": "Impostos",
@@ -3251,7 +3771,7 @@
     },
     {
       "categoria": "Pessoal",
-      "soma": 43122.95
+      "soma": 58732.95
     },
     {
       "categoria": "Cartão de Crédito",
@@ -3263,7 +3783,7 @@
     },
     {
       "categoria": "Mobilidade",
-      "soma": 7931.25
+      "soma": 8216.39
     },
     {
       "categoria": "Aluguel",
@@ -3271,7 +3791,7 @@
     },
     {
       "categoria": "TRT",
-      "soma": 5544.580000000004
+      "soma": 6498.960000000005
     },
     {
       "categoria": "Estorno",
@@ -3291,7 +3811,7 @@
     },
     {
       "categoria": "Marketing",
-      "soma": 2652.47
+      "soma": 4471.12
     },
     {
       "categoria": "Energia",
@@ -3303,7 +3823,7 @@
     },
     {
       "categoria": "Frete",
-      "soma": 1599.79
+      "soma": 1849.79
     },
     {
       "categoria": "Internet",
@@ -3315,11 +3835,15 @@
     },
     {
       "categoria": "Fumo",
-      "soma": 5336.120000000001
+      "soma": 5413.170000000001
     },
     {
       "categoria": "Prédio",
       "soma": 1160
+    },
+    {
+      "categoria": "Fardamento",
+      "soma": 700
     }
   ],
   "resumoMensal": []
