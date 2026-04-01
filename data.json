@@ -1,5 +1,5 @@
 {
-  "geradoEm": "31/03/2026 21:01",
+  "geradoEm": "31/03/2026 21:03",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -3448,7 +3448,7 @@
       "valor": 1424.31,
       "beneficiario": "Dudé",
       "descricao": "para Dudé, comissões de GENIMAR PEREIRA DA SILVA",
-      "categoria": "(sem categoria)",
+      "categoria": "Comissões",
       "mes": "03/2026"
     },
     {
