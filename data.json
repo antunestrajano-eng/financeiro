@@ -1,5 +1,5 @@
 {
-  "geradoEm": "28/04/2026 16:46",
+  "geradoEm": "28/04/2026 16:49",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -4387,8 +4387,8 @@
       "tipo": "Pagamento",
       "valor": 4949.82,
       "beneficiario": "Derek",
-      "descricao": "para Derek, comissões de Cesar Franklin Silva da Cruz",
-      "categoria": "(sem categoria)",
+      "descricao": "para Derek, comissões de Cesar Franklin Silva da Cruz, Nilton Quadro, Capangas e Alessandro Augusto.",
+      "categoria": "Comissões",
       "mes": "04/2026"
     },
     {
@@ -4688,7 +4688,7 @@
       "valor": 68.17,
       "beneficiario": "Maricelia Dias",
       "descricao": "Trt Maricelia Dias",
-      "categoria": "(sem categoria)",
+      "categoria": "TRT",
       "mes": "04/2026"
     },
     {
@@ -5145,23 +5145,23 @@
   "categorias": [
     {
       "categoria": "Material FV",
-      "soma": 326626.93
+      "soma": 289031.84
     },
     {
       "categoria": "Instalações",
-      "soma": 194103.47
+      "soma": 161333.47
     },
     {
       "categoria": "Comissões",
-      "soma": 160964
+      "soma": 129438.56000000001
     },
     {
       "categoria": "Impostos",
-      "soma": 138417.19
+      "soma": 96047.83
     },
     {
       "categoria": "Pessoal",
-      "soma": 69474.62999999999
+      "soma": 68974.62999999999
     },
     {
       "categoria": "Cartão de Crédito",
@@ -5169,7 +5169,7 @@
     },
     {
       "categoria": "Material CA",
-      "soma": 46492.60999999999
+      "soma": 40263.24999999999
     },
     {
       "categoria": "Mobilidade",
@@ -5181,7 +5181,7 @@
     },
     {
       "categoria": "TRT",
-      "soma": 8748.570000000007
+      "soma": 7589.680000000006
     },
     {
       "categoria": "Estorno",
@@ -5189,7 +5189,7 @@
     },
     {
       "categoria": "Contabilidade",
-      "soma": 5800
+      "soma": 2900
     },
     {
       "categoria": "Jurídico",
@@ -5197,15 +5197,15 @@
     },
     {
       "categoria": "Manutenção",
-      "soma": 2225
+      "soma": 2025
     },
     {
       "categoria": "Marketing",
-      "soma": 6648.05
+      "soma": 6248.05
     },
     {
       "categoria": "Energia",
-      "soma": 2346.92
+      "soma": 2199.55
     },
     {
       "categoria": "Premiações",
@@ -5213,11 +5213,11 @@
     },
     {
       "categoria": "Frete",
-      "soma": 2845.02
+      "soma": 2099.79
     },
     {
       "categoria": "Internet",
-      "soma": 562.3799999999999
+      "soma": 478.7099999999999
     },
     {
       "categoria": "Água",
@@ -5225,11 +5225,11 @@
     },
     {
       "categoria": "Fumo",
-      "soma": 5894.520000000001
+      "soma": 5728.730000000001
     },
     {
       "categoria": "Prédio",
-      "soma": 9525.720000000001
+      "soma": 2925.7200000000003
     },
     {
       "categoria": "Fardamento",
@@ -5237,7 +5237,7 @@
     },
     {
       "categoria": "Comercial",
-      "soma": 4164
+      "soma": 0
     }
   ],
   "resumoMensal": []
