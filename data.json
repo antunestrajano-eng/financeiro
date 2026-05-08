@@ -1,5 +1,5 @@
 {
-  "geradoEm": "08/05/2026 16:23",
+  "geradoEm": "08/05/2026 16:26",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -3939,6 +3939,16 @@
       "beneficiario": "Capangas",
       "descricao": "Trt Capangas",
       "categoria": "TRT",
+      "mes": "04/2026"
+    },
+    {
+      "data": "02/04/2026",
+      "hora": "Sat Dec 30 1899 13:08:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 75000,
+      "beneficiario": "Socios",
+      "descricao": "Divisão de lucro para os sócios",
+      "categoria": "Divisão de lucros",
       "mes": "04/2026"
     },
     {
