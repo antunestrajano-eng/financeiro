@@ -1,5 +1,5 @@
 {
-  "geradoEm": "08/05/2026 16:26",
+  "geradoEm": "08/05/2026 16:32",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -199,6 +199,16 @@
       "beneficiario": "Andrey",
       "descricao": "para Andrey, comissões de VITORIA SANDRA ARAUJO DE MIRANDA, JOSELY ALESSANDRA BEZERRA JERONIMO E AF ADMINISTRAÇÃO DE CONDOMÍNIOS LTDA.",
       "categoria": "Comissões",
+      "mes": "02/2026"
+    },
+    {
+      "data": "03/02/2026",
+      "hora": "Sat Dec 30 1899 15:13:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 60000,
+      "beneficiario": "Sócios",
+      "descricao": "Divisão de lucros para os sócios",
+      "categoria": "Divisão de lucros",
       "mes": "02/2026"
     },
     {
@@ -2039,6 +2049,16 @@
       "beneficiario": "Fabinho instalador",
       "descricao": "para Fabinho instalador, instalação do cliente IGOR DE MELO BATISTA.",
       "categoria": "Instalações",
+      "mes": "03/2026"
+    },
+    {
+      "data": "04/03/2026",
+      "hora": "Sat Dec 30 1899 09:56:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 60000,
+      "beneficiario": "Sócios",
+      "descricao": "Divisão de lucros para os sócios",
+      "categoria": "Divisão de lucros",
       "mes": "03/2026"
     },
     {
