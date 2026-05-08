@@ -1,5 +1,5 @@
 {
-  "geradoEm": "08/05/2026 16:21",
+  "geradoEm": "08/05/2026 16:23",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -5528,7 +5528,7 @@
       "valor": 16545.07,
       "beneficiario": "",
       "descricao": "referente a fatura do cartão do mês de Abril/26.",
-      "categoria": "(sem categoria)",
+      "categoria": "Cartão de Crédito",
       "mes": "05/2026"
     },
     {
@@ -5718,7 +5718,7 @@
       "valor": 17163.99,
       "beneficiario": "Andrey",
       "descricao": "para Andrey, comissões de RAYANE MAYARA ALVES GONÇALVES, IVANEIDE FERREIRA, ARI DOS SANTOS ALMEIDA JUNIOR",
-      "categoria": "(sem categoria)",
+      "categoria": "Comissões",
       "mes": "05/2026"
     },
     {
