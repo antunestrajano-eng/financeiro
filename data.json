@@ -1,5 +1,5 @@
 {
-  "geradoEm": "22/05/2026 14:16",
+  "geradoEm": "22/05/2026 14:17",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -6698,7 +6698,7 @@
       "valor": 170,
       "beneficiario": "Rodrigues",
       "descricao": "para Rodrigues, limpeza do prédio.",
-      "categoria": "(sem categoria)",
+      "categoria": "Prédio",
       "mes": "05/2026"
     },
     {
