@@ -1,5 +1,5 @@
 {
-  "geradoEm": "08/05/2026 16:32",
+  "geradoEm": "22/05/2026 14:15",
   "gastos": [
     {
       "data": "02/02/2026",
@@ -6090,40 +6090,830 @@
       "descricao": "para Tvin, material do cliente KALIANA DE MORAIS GALVÃO",
       "categoria": "Material FV",
       "mes": "05/2026"
+    },
+    {
+      "data": "08/05/2026",
+      "hora": "Sat Dec 30 1899 17:04:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1349.63,
+      "beneficiario": "Rafael",
+      "descricao": "para Rafael, comissão de Felipe Augusto da Costa Martins",
+      "categoria": "Comissões",
+      "mes": "05/2026"
+    },
+    {
+      "data": "08/05/2026",
+      "hora": "Sat Dec 30 1899 17:20:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1529.45,
+      "beneficiario": "Dudé",
+      "descricao": "para Dudé, comissões de KALINE CARLA LIMA DE ARAUJO SILVA E LENI TAVARES DE CARVALHO",
+      "categoria": "Comissões",
+      "mes": "05/2026"
+    },
+    {
+      "data": "08/05/2026",
+      "hora": "Sat Dec 30 1899 17:30:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 465.84,
+      "beneficiario": "Andrey",
+      "descricao": "para Andrey, ressarcimento de gastos com a corrida",
+      "categoria": "Marketing",
+      "mes": "05/2026"
+    },
+    {
+      "data": "09/05/2026",
+      "hora": "Sat Dec 30 1899 11:58:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 33.39,
+      "beneficiario": "Andrey",
+      "descricao": "Reembolso de R$33,39 para Andrey, gasto na ação",
+      "categoria": "Marketing",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 09:43:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 700,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, instalação do cliente GENIMAR PEREIRA DA SILVA",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 09:47:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 830,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, instalação do cliente ATOS SILVA DO NASCIMENTO",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 10:09:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 7890,
+      "beneficiario": "Marcílio",
+      "descricao": "para Marcílio, instalações de Nilton Quadro, ANA PAULINA DUTRA GOMES, EVELYN BEATRIZ SOUZA ZARATE e Raimunda Justino Do Nascimento",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:07:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 250,
+      "beneficiario": "Antunes",
+      "descricao": "para Antunes, deslocamento das placas da cliente Ana Mara Bidart",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:20:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 43873.63,
+      "beneficiario": "",
+      "descricao": "referente ao imposto do simples nacional do mês de Abril/26",
+      "categoria": "Impostos",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:21:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Brena Kesia",
+      "descricao": "Trt Brena Kesia",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:22:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Cleiton Rocha",
+      "descricao": "Trt Cleiton Rocha",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:22:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Rivaldo Delgado",
+      "descricao": "Trt Rivaldo Delgado",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:23:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Giliane Katia",
+      "descricao": "Trt Giliane Katia",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:23:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Elidiane Barbosa",
+      "descricao": "Trt Elidiane Barbosa",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:24:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Kaliana De Morais",
+      "descricao": "Trt Kaliana De Morais",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:24:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Maria Antonia Souza",
+      "descricao": "Trt Maria Antonia Souza",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:25:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Joaquim Gomes",
+      "descricao": "Trt Joaquim Gomes",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "11/05/2026",
+      "hora": "Sat Dec 30 1899 17:25:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Fagner Amarante",
+      "descricao": "Trt Fagner Amarante",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "12/05/2026",
+      "hora": "Sat Dec 30 1899 14:24:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 3179.45,
+      "beneficiario": "Ldf",
+      "descricao": "para Ldf, material CA complementar",
+      "categoria": "Material CA",
+      "mes": "05/2026"
+    },
+    {
+      "data": "12/05/2026",
+      "hora": "Sat Dec 30 1899 14:41:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 340,
+      "beneficiario": "Antunes",
+      "descricao": "para Antunes, limpeza do prédio e IPVA que o Ôbrero pagou",
+      "categoria": "Prédio",
+      "mes": "05/2026"
+    },
+    {
+      "data": "12/05/2026",
+      "hora": "Sat Dec 30 1899 16:48:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 111.79,
+      "beneficiario": "Alisson",
+      "descricao": "para Alisson, custos com a corrida",
+      "categoria": "Marketing",
+      "mes": "05/2026"
+    },
+    {
+      "data": "12/05/2026",
+      "hora": "Sat Dec 30 1899 17:22:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 250,
+      "beneficiario": "Antunes",
+      "descricao": "para Antunes, deslocamento das placas da cliente Myllena Rocha",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 10:12:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 870,
+      "beneficiario": "Fabinho",
+      "descricao": "para Fabinho, instalação do cliente Alessandro Augusto Polotto",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 10:19:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 4510.25,
+      "beneficiario": "Ednezer",
+      "descricao": "para Ednezer, instalações de Matheus Rodrigo Oliveira dos Anjos, Lusimar Florencio Gomes, Genildo Luiz da Nobrega e Maria José de Medeiros",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 10:21:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Felipe Augusto",
+      "descricao": "Trt Felipe Augusto",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 10:25:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1110,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, manutenções realizadas",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 10:27:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 840,
+      "beneficiario": "Fortunato",
+      "descricao": "para Fortunato, manutenções realizadas",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 16:13:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 84.99,
+      "beneficiario": "Brisanet",
+      "descricao": "para Brisanet, internet principal do escritório",
+      "categoria": "Internet",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 16:18:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Julio Jose",
+      "descricao": "Trt Julio Jose",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 16:19:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Francisco Ferreira",
+      "descricao": "Trt Francisco Ferreira",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "13/05/2026",
+      "hora": "Sat Dec 30 1899 21:23:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 375,
+      "beneficiario": "copa",
+      "descricao": "referente a 50% das fardas comemorativas pra copa",
+      "categoria": "Fardamento",
+      "mes": "05/2026"
+    },
+    {
+      "data": "14/05/2026",
+      "hora": "Sat Dec 30 1899 10:14:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2900,
+      "beneficiario": "Oliveira",
+      "descricao": "para Oliveira, serviços contábeis do mês de Maio/26",
+      "categoria": "Contabilidade",
+      "mes": "05/2026"
+    },
+    {
+      "data": "14/05/2026",
+      "hora": "Sat Dec 30 1899 14:31:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 18973.26,
+      "beneficiario": "Solfacil",
+      "descricao": "para Solfacil, material do cliente JOSE RUDSON MELO DA SILVA",
+      "categoria": "Material FV",
+      "mes": "05/2026"
+    },
+    {
+      "data": "14/05/2026",
+      "hora": "Sat Dec 30 1899 14:58:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 45.81,
+      "beneficiario": "Pau dos Ferros",
+      "descricao": "referente ao envio de material para Pau dos Ferros",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "14/05/2026",
+      "hora": "Sat Dec 30 1899 15:22:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 48.57,
+      "beneficiario": "Mossoró",
+      "descricao": "referente ao envio de material para Mossoró",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "14/05/2026",
+      "hora": "Sat Dec 30 1899 16:37:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 463.88,
+      "beneficiario": "Ldf",
+      "descricao": "para Ldf, material CA complementar",
+      "categoria": "Material CA",
+      "mes": "05/2026"
+    },
+    {
+      "data": "14/05/2026",
+      "hora": "Sat Dec 30 1899 20:11:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 300,
+      "beneficiario": "Alisson",
+      "descricao": "para Alisson, reembolso do serviço de Iceman",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "15/05/2026",
+      "hora": "Sat Dec 30 1899 09:54:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 534.93,
+      "beneficiario": "",
+      "descricao": "referente ao imposto do pró labore",
+      "categoria": "Impostos",
+      "mes": "05/2026"
+    },
+    {
+      "data": "15/05/2026",
+      "hora": "Sat Dec 30 1899 13:15:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 285,
+      "beneficiario": "",
+      "descricao": "referente a confecção de novas fardas",
+      "categoria": "Fardamento",
+      "mes": "05/2026"
+    },
+    {
+      "data": "15/05/2026",
+      "hora": "Sat Dec 30 1899 14:22:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 549.51,
+      "beneficiario": "LDF",
+      "descricao": "para LDF, material CA complementar",
+      "categoria": "Material CA",
+      "mes": "05/2026"
+    },
+    {
+      "data": "15/05/2026",
+      "hora": "Sat Dec 30 1899 14:31:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 14500,
+      "beneficiario": "Tvin",
+      "descricao": "para Tvin, material do cliente PRIME ASSESSORIA CONTABIL E EMPRESARIAL LTDA",
+      "categoria": "Material FV",
+      "mes": "05/2026"
+    },
+    {
+      "data": "15/05/2026",
+      "hora": "Sat Dec 30 1899 15:17:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 59.07,
+      "beneficiario": "Mossoró",
+      "descricao": "referente ao envio de material para Mossoró",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "15/05/2026",
+      "hora": "Sat Dec 30 1899 16:33:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 6149.82,
+      "beneficiario": "",
+      "descricao": "material do cliente IBRAHIM FRANCISCO DO NASCIMENTO",
+      "categoria": "Material FV",
+      "mes": "05/2026"
+    },
+    {
+      "data": "15/05/2026",
+      "hora": "Sat Dec 30 1899 18:56:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 270,
+      "beneficiario": "Andrey",
+      "descricao": "para Andrey, custos com o externo",
+      "categoria": "Comercial",
+      "mes": "05/2026"
+    },
+    {
+      "data": "17/05/2026",
+      "hora": "Sat Dec 30 1899 13:45:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Jose Rudson",
+      "descricao": "Trt Jose Rudson",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "17/05/2026",
+      "hora": "Sat Dec 30 1899 13:49:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 12,
+      "beneficiario": "o melhor envio",
+      "descricao": "para o melhor envio, diferença nas pesagens dos envios",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "17/05/2026",
+      "hora": "Sat Dec 30 1899 13:50:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 120,
+      "beneficiario": "Rafael",
+      "descricao": "para Rafael, deslocamento no material do cliente Francisco Leandro",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 09:32:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1490,
+      "beneficiario": "",
+      "descricao": "referente ao caução+aluguel do carro pro externo",
+      "categoria": "Comercial",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 10:48:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1181.2,
+      "beneficiario": "Monte Sinai",
+      "descricao": "para Monte Sinai, material CA complementar",
+      "categoria": "Material CA",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 10:52:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 500,
+      "beneficiario": "Lázaro",
+      "descricao": "para Lázaro, ajuda de custo inicial",
+      "categoria": "Pessoal",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 14:37:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2217.15,
+      "beneficiario": "Ednezer",
+      "descricao": "Pagamento R$2.217,15 para Ednezer, instalações de ROMARIO COSTA FERREIRA E RUDHENMBERGE KEVIN ALVES",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 15:47:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 150,
+      "beneficiario": "",
+      "descricao": "referente a pousada dos vendedores externos",
+      "categoria": "Comercial",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 17:15:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Kaline Carla",
+      "descricao": "Trt Kaline Carla",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 17:16:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Erealdina Cristina",
+      "descricao": "Trt Erealdina Cristina",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 17:16:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Vanine Epifanio",
+      "descricao": "Trt Vanine Epifanio",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "18/05/2026",
+      "hora": "Sat Dec 30 1899 19:55:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 1300,
+      "beneficiario": "",
+      "descricao": "referente a compra do drone",
+      "categoria": "Comercial",
+      "mes": "05/2026"
+    },
+    {
+      "data": "19/05/2026",
+      "hora": "Sat Dec 30 1899 10:35:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 580,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, instalação do cliente MAGNO SERGIO DE MELO",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "19/05/2026",
+      "hora": "Sat Dec 30 1899 11:39:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 161.36,
+      "beneficiario": "",
+      "descricao": "abastecimento da viatura do externo",
+      "categoria": "Mobilidade",
+      "mes": "05/2026"
+    },
+    {
+      "data": "19/05/2026",
+      "hora": "Sat Dec 30 1899 16:40:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Severino dos Ramos",
+      "descricao": "Trt Severino dos Ramos",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "19/05/2026",
+      "hora": "Sat Dec 30 1899 16:41:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Patricia Falcone",
+      "descricao": "Trt Patricia Falcone",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "19/05/2026",
+      "hora": "Sat Dec 30 1899 18:34:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 170,
+      "beneficiario": "Rodrigues",
+      "descricao": "para Rodrigues, limpeza do prédio.",
+      "categoria": "(sem categoria)",
+      "mes": "05/2026"
+    },
+    {
+      "data": "20/05/2026",
+      "hora": "Sat Dec 30 1899 08:36:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 29150,
+      "beneficiario": "Marcílio",
+      "descricao": "para Marcílio, instalações de DENES DUARTE MARTINS, Patricia Falcone Pessoa, WELLINGTON GOMES DO NASCIMENTO JUNIOR, RAIZA CRISTINA PRAXEDES DA SILVA, Orlenilson Gomes da Silva, VANESSA CRISTINA DE MEDEIROS DA SILVA, KAWAN CESAR RODRIGUES DE SOUZA, ROBERTO DA SILVA RODRIGUES, Giliane Katia Marinho de Oliveira, OZENIRA GALDINO DA SILVA MEDEIROS, FRANCISCO LEANDRO DA SILVA E JULIO JOSÉ DE ARAÚJO, já incluso valor previsto para obras nos clientes de Alisson",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "20/05/2026",
+      "hora": "Sat Dec 30 1899 08:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 200,
+      "beneficiario": "",
+      "descricao": "referente a segurança do prédio",
+      "categoria": "Prédio",
+      "mes": "05/2026"
+    },
+    {
+      "data": "20/05/2026",
+      "hora": "Sat Dec 30 1899 11:39:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 2330,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, instalações de ELIDIANE BARBOSA MACHADO e Rayane Emanuelle de Oliveira Valentim",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "20/05/2026",
+      "hora": "Sat Dec 30 1899 11:42:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Leidiane Maria",
+      "descricao": "Trt Leidiane Maria",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "20/05/2026",
+      "hora": "Sat Dec 30 1899 11:43:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Debora Liliane",
+      "descricao": "Trt Debora Liliane",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "20/05/2026",
+      "hora": "Sat Dec 30 1899 18:03:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 335.05,
+      "beneficiario": "Andrey",
+      "descricao": "para Andrey, compra de materiais de limpeza pra o escritório",
+      "categoria": "Prédio",
+      "mes": "05/2026"
+    },
+    {
+      "data": "20/05/2026",
+      "hora": "Sat Dec 30 1899 19:24:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 990,
+      "beneficiario": "Nildo",
+      "descricao": "para Nildo, instalação da cliente MARIA DALVA GOMES CAVALCANTI",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "21/05/2026",
+      "hora": "Sat Dec 30 1899 09:12:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 172,
+      "beneficiario": "",
+      "descricao": "referente ao abastecimento da viatura do externo",
+      "categoria": "Mobilidade",
+      "mes": "05/2026"
+    },
+    {
+      "data": "21/05/2026",
+      "hora": "Sat Dec 30 1899 15:27:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Julio Cesar",
+      "descricao": "Trt Julio Cesar",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "21/05/2026",
+      "hora": "Sat Dec 30 1899 15:28:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Genicleide Medeiros",
+      "descricao": "Trt Genicleide Medeiros",
+      "categoria": "TRT",
+      "mes": "05/2026"
+    },
+    {
+      "data": "21/05/2026",
+      "hora": "Sat Dec 30 1899 16:38:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 100,
+      "beneficiario": "Rodrigues",
+      "descricao": "para Rodrigues, lavagem das duas viaturas",
+      "categoria": "Prédio",
+      "mes": "05/2026"
+    },
+    {
+      "data": "21/05/2026",
+      "hora": "Sat Dec 30 1899 16:53:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 5400,
+      "beneficiario": "os sócios",
+      "descricao": "Divisão de R$5.400,00, referente a bonificação da Solfacil para os sócios",
+      "categoria": "Divisão de lucros",
+      "mes": "05/2026"
+    },
+    {
+      "data": "21/05/2026",
+      "hora": "Sat Dec 30 1899 18:59:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 650,
+      "beneficiario": "",
+      "descricao": "referente ao aluguel da pousada do externo",
+      "categoria": "Comercial",
+      "mes": "05/2026"
+    },
+    {
+      "data": "22/05/2026",
+      "hora": "Sat Dec 30 1899 10:34:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 6000,
+      "beneficiario": "",
+      "descricao": "referente ao aluguel do prédio de Maio/26",
+      "categoria": "Prédio",
+      "mes": "05/2026"
+    },
+    {
+      "data": "22/05/2026",
+      "hora": "Sat Dec 30 1899 10:54:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Ressarcimento",
+      "valor": 1230,
+      "beneficiario": "Alisson",
+      "descricao": "para Alisson, pagamento das telhas pra cookitos",
+      "categoria": "Instalações",
+      "mes": "05/2026"
+    },
+    {
+      "data": "22/05/2026",
+      "hora": "Sat Dec 30 1899 11:30:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 40.21,
+      "beneficiario": "Ednezer",
+      "descricao": "referente ao envio de material para Ednezer",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "22/05/2026",
+      "hora": "Sat Dec 30 1899 11:50:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 44.94,
+      "beneficiario": "Pau dos Ferros",
+      "descricao": "referente ao envio de material para Pau dos Ferros",
+      "categoria": "Frete",
+      "mes": "05/2026"
+    },
+    {
+      "data": "22/05/2026",
+      "hora": "Sat Dec 30 1899 14:03:00 GMT-0306 (Horário Padrão de Brasília)",
+      "tipo": "Pagamento",
+      "valor": 68.17,
+      "beneficiario": "Ibrahim Francisco",
+      "descricao": "Trt Ibrahim Francisco",
+      "categoria": "TRT",
+      "mes": "05/2026"
     }
   ],
   "categorias": [
     {
       "categoria": "Material FV",
-      "soma": 389774.24000000005
+      "soma": 429397.32000000007
     },
     {
       "categoria": "Instalações",
-      "soma": 205763.47
+      "soma": 259310.87
     },
     {
       "categoria": "Comissões",
-      "soma": 208175.22
+      "soma": 228218.29
     },
     {
       "categoria": "Impostos",
-      "soma": 138966.16
+      "soma": 183374.72
     },
     {
       "categoria": "Pessoal",
-      "soma": 97188.12999999999
+      "soma": 97688.12999999999
     },
     {
       "categoria": "Cartão de Crédito",
-      "soma": 54320.18000000001
+      "soma": 70865.25
     },
     {
       "categoria": "Material CA",
-      "soma": 59210.84
+      "soma": 64584.87999999999
     },
     {
       "categoria": "Mobilidade",
-      "soma": 12114.73
+      "soma": 12448.09
     },
     {
       "categoria": "Aluguel",
@@ -6131,7 +6921,7 @@
     },
     {
       "categoria": "TRT",
-      "soma": 10384.650000000009
+      "soma": 11952.56000000001
     },
     {
       "categoria": "Estorno",
@@ -6139,7 +6929,7 @@
     },
     {
       "categoria": "Contabilidade",
-      "soma": 5800
+      "soma": 8700
     },
     {
       "categoria": "Jurídico",
@@ -6151,7 +6941,7 @@
     },
     {
       "categoria": "Marketing",
-      "soma": 6713.05
+      "soma": 7324.070000000001
     },
     {
       "categoria": "Energia",
@@ -6163,11 +6953,11 @@
     },
     {
       "categoria": "Frete",
-      "soma": 3190.7
+      "soma": 4061.3
     },
     {
       "categoria": "Internet",
-      "soma": 657.0999999999999
+      "soma": 742.0899999999999
     },
     {
       "categoria": "Água",
@@ -6179,19 +6969,19 @@
     },
     {
       "categoria": "Prédio",
-      "soma": 10244.720000000001
+      "soma": 17219.77
     },
     {
       "categoria": "Fardamento",
-      "soma": 1239.9
+      "soma": 1899.9
     },
     {
       "categoria": "Comercial",
-      "soma": 4164
+      "soma": 8024
     },
     {
       "categoria": "Divisão de lucros",
-      "soma": 75000
+      "soma": 275400
     }
   ],
   "resumoMensal": []
